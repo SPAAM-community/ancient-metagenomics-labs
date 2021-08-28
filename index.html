@@ -9,11 +9,16 @@
   <meta name="description" content="Website for a list of Ancient Metagenomics labs around the world curated by the SPAAM community">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="theme-custom.css">
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
   <style>
   </style>
 </head>
 <body>
   <div id="app"></div>
+  <div id="table-container"></div>
   <script>
     window.$docsify = {
       name: '<img src=""_media/SPAAM-Logo-Black.svg width=30%/>',
@@ -51,4 +56,27 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
   <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+  <script src="js/jquery.csv.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+  <script src="js/csv_to_html_table.js"></script>
+
+  <script>
+    function format_link(link) {
+      if (link)
+        return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+      else return "";
+    }
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/ancient-metagenomics_labs.csv', 
+      element: 'table-container', 
+      allow_download: true,
+      csv_options: {separator: ',', delimiter: '"'},
+      datatables_options: {"paging": false}
+    });
+  </script>
+
 </body>
