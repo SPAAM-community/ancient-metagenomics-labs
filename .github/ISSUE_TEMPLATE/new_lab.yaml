@@ -45,13 +45,9 @@ body:
       description: Main ancient metagenomics research focus of lab
       options:
         - label: anthropogenic
-          description:  e.g. from human-made objects (pots, parchment etc.)
         - label: environmental
-          description: e.g.  e.g. from sedaDNA, either microbial or eukaryotes
         - label: host-associated
-          description: e.g. microbiomes derived directly from bodies of organisms
         - label: microbial-genomics
-          description: e.g. microbial or viral pathogen genomes
     validations:
       required: true
   - type: textarea
