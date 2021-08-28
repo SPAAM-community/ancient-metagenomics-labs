@@ -41,7 +41,6 @@ body:
   - type: checkboxes
     id: lab-topic
     attributes:
-      label: Research focus
       description: Research area of ancient metagenomics the lab is active in
       options:
         - label: anthropogenic
