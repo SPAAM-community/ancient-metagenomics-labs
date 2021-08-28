@@ -42,7 +42,7 @@ body:
     id: lab-topic
     label: Research focus
     attributes:
-      options:
+    options:
         - label: anthropogenic
           description:  e.g. from human-made objects (pots, parchmeent etc.)
         - label: host-associated
