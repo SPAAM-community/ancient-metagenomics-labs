@@ -56,5 +56,5 @@ body:
   - type: textarea
     id: other-info
     attributes:
-    label: Other information
-    description: Any other information
+      label: Other information
+      description: Any other information
