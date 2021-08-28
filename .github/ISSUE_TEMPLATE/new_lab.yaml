@@ -38,17 +38,10 @@ body:
       description: URL to the webpage of the PI/group/lab/institution.
     validations:
       required: true
-  - type: textarea
-    id: lab-webpage
-    attributes: 
-      label: Webpage of the lab or group
-      description: URL to the webpage of the PI/group/lab/institution.
-    validations:
-      required: true
   - type: checkboxes
     id: lab-topic
     attributes:
-      lable: Research focus
+      label: Research focus
       description: Research area of ancient metagenomics the lab is active in
       options:
         - label: anthropogenic
@@ -58,7 +51,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: other
+    id: other-info
     attributes:
     label: Other information
     description: Any other information
