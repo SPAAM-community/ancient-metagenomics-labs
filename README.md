@@ -1,7 +1,9 @@
 
+#
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-AncientMetagenomicLabs_logo.svg" width=10%>
+<img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-AncientMetagenomicLabs_logo.png" width=10%>
 
 <p/>
 
@@ -20,6 +22,7 @@ The purpose of this list to promote further collaboration between labs by: makin
 ## Map of Ancient Metagenomics Labs
 
 🔨 UNDER CONSTRUCTION 🔨
+
 ## Table of Ancient Metagenomics Labs
 
 <div id="table-container"></div>
@@ -34,27 +37,27 @@ The purpose of this list to promote further collaboration between labs by: makin
     }
 
     CsvToHtmlTable.init({
-        csv_path: 'data/ancient-metagenomics_labs.csv', 
-        element: 'table-container', 
+        csv_path: 'data/ancient-metagenomics_labs.csv',
+        element: 'table-container',
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false, "columns.width": "90%"},
-		custom_formatting: [[5, format_link]]
+        custom_formatting: [[5, format_link]]
 
     });
 </script>
 
 <style>
-	.btn-info {
-		background-color: #FFFFFF;
-		border-color: #732a82;
-		font-family: 'Varela Round', sans-serif;
-		border-radius: 2rem;
-		border-style: solid;
-		border-width: 1px;
-	}
-	.btn-info:hover {
-		font-family: 'Varela Round', sans-serif;
-		background-color: #732a82;
-	}
+    .btn-info {
+        background-color: #FFFFFF;
+        border-color: #732a82;
+        font-family: 'Varela Round', sans-serif;
+        border-radius: 2rem;
+        border-style: solid;
+        border-width: 1px;
+    }
+    .btn-info:hover {
+        font-family: 'Varela Round', sans-serif;
+        background-color: #732a82;
+    }
 </style>
