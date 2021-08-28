@@ -45,7 +45,7 @@ body:
       description: URL to the webpage of the PI/group/lab/institution.
     validations:
       required: true
-  - type: checkbox
+  - type: checkboxes
     id: lab-topic
     attributes:
     label: Research Focus
