@@ -48,14 +48,13 @@ body:
   - type: checkboxes
     id: lab-topic
     attributes:
-    label: Research Focus
-    id: lab-focus
-    description: Research area of ancient metagenomics the lab is active in
-    options:
-      - label: anthropogenic
-      - label: host-associated
-      - label: microbial-genomics
-      - label: environmental
+      label: Research Focus
+      description: Research area of ancient metagenomics the lab is active in
+      options:
+        - label: anthropogenic
+        - label: host-associated
+        - label: microbial-genomics
+        - label: environmental
     validations:
       required: true
   - type: textarea
