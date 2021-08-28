@@ -1,0 +1,65 @@
+name: New Lab
+description: Form for adding a new lab
+labels: new-lab
+title: Add Name of Lab
+body:
+  - type: textarea
+    id: lab-name
+    attributes: 
+      label: Name of Lab
+      description: Name of the lab/group or, "<Surname of PI> Lab".
+    validations:
+      required: true
+  - type: textarea
+    id: lab-pi
+    attributes: 
+      label: Name of PI
+      description: The name of the Principal Investigator with Academic Title (e.g. Prof. Dr. Jane Smith).
+    validations:
+      required: true
+  - type: textarea
+    id: lab-institution
+    attributes: 
+      label: Name of Institution
+      description: Name of institution of that the lab or group the ancient metagenomic work is happening in. Preferably in official/main language of country, however must be searchable on Google Maps, and result in the address as the first result (for mapping purposes).
+    validations:
+      required: true
+  - type: textarea
+    id: lab-country
+    attributes: 
+      label: Country of Institution
+      description: Country that the institution is located in.
+    validations:
+      required: true
+  - type: textarea
+    id: lab-webpage
+    attributes: 
+      label: Webpage of the lab or group
+      description: URL to the webpage of the PI/group/lab/institution.
+    validations:
+      required: true
+  - type: textarea
+    id: lab-webpage
+    attributes: 
+      label: Webpage of the lab or group
+      description: URL to the webpage of the PI/group/lab/institution.
+    validations:
+      required: true
+  - type: checkbox
+    id: lab-topic
+    attributes:
+    label: Research Focus
+    id: lab-focus
+    description: Research area of ancient metagenomics the lab is active in
+    options:
+      - label: anthropogenic
+      - label: host-associated
+      - label: microbial-genomics
+      - label: environmental
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+    label: Other information
+    description: Any other information
