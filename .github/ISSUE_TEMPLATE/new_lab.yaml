@@ -21,7 +21,10 @@ body:
     id: lab-institution
     attributes: 
       label: Name of Institution
-      description: Name of institution of that the lab or group the ancient metagenomic work is happening in. Preferably in official/main language of country, however must be searchable on Google Maps, and result in the address as the first result (for mapping purposes).
+      description: |
+        Name of institution of that the lab or group the ancient metagenomic work is happening in. 
+        Preferably the name should be in the official/main language of country (e.g. the German version of German institutions).
+        However, the name must be findable on Google Maps, and the first result includes the address of the institution (for mapping purposes).
     validations:
       required: true
   - type: textarea
