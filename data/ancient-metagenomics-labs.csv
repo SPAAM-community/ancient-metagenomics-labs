@@ -1,7 +1,7 @@
 ID of Lab,Name of Lab,Name of PI,Name of Institution,Country of Institution,Webpage,Ancient Metagenomics Research Focus,Active,Longitude,Latitude
 MSS,Microbiome Sciences,Prof. Christina Warinner,Max-Planck-Institut für evolutionäre Anthropologie,Germany,http://christinawarinner.com/,host-associated,☑,12.3966546802915,51.3223889802915
 MPS,Microbial Paleogenomics,Dr. Nicolás Rascovan,Institut Pasteur,France,https://research.pasteur.fr/en/team/microbial-paleogenomics/,"host-associated,microbial-genomics",☑,2.3122407802915,48.8421234802915
-GIL,Guschanski Lab,Dr. Katerina Guschanski,University of Edinburgh,United Kingdom,https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab/guschanski-people/,host-associated,☑,55.9458647802915,55.9458647802915
+GIL,Guschanski Lab,Dr. Katerina Guschanski,University of Edinburgh,United Kingdom,https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab/guschanski-people/,host-associated,☑,-3.188501,55.9458647802915
 MAH,MicroARCH,Dr. Laura Weyrich,Penn State University,United States,https://microarchlab.github.io/,microbial-genomics,☑,-77.8585594197085,40.7995622802915
 MRN,GenSCAPE Lab,Dr. Maanasa Raghavan,University of Chicago,United States,https://www.genscape-lab.com/,microbial-genomics,☑,-87.5973643197085,41.7899568802915
 UTIG,aDNA lab UTIG,Dr. Christiana L. Scheib,"Tartu Ülikool, Genoomika Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,☑,26.7212148802915,58.3824332802915
