@@ -11,9 +11,9 @@
 
 This is a [SPAAM community](https://spaam-community.github.io/) curated list of ancient metagenomics labs.
 
-The purpose of this list to promote further collaboration between labs by: making labs working in ancient metagenomics more visible. To submit a new lab, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues/new?assignees=&labels=new-lab&template=new_lab.yaml&title=Add+Name+of+Lab)
+The purpose of this list to promote further collaboration between labs by: making labs working in ancient metagenomics more visible. To submit a new lab, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues) or contact [James Fellows Yates](jfy133@gmail.com)
 
-> If you wish your lab to be removed from this list. Please contact [James](jfy133@gmail.com). Labs are only included if they already have a web presence.
+> If you wish your lab to be removed from this list. Please contact [James Fellows Yates](jfy133@gmail.com). Labs are only included if they already have a web presence.
 ## Map of Ancient Metagenomics Labs
 
 [AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs.geojson ':include :type=iframe width=300px height=400px')
