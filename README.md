@@ -21,7 +21,7 @@ The purpose of this list to promote further collaboration between labs by: makin
 
 ## Map of Ancient Metagenomics Labs
 
-[AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs.geojson ':include :type=iframe width=100% height=400px')
+[AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs.geojson ':include :type=iframe width=75%')
 
 ## Table of Ancient Metagenomics Labs
 
