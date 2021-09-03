@@ -42,7 +42,7 @@ The purpose of this list to promote further collaboration between labs by: makin
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false, "columns.width": "90%"},
-        custom_formatting: [[5, format_link]]
+        custom_formatting: [[6, format_link]]
 
     });
 </script>
