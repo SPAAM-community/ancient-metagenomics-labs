@@ -41,7 +41,7 @@ The purpose of this list to promote further collaboration between labs by: makin
         element: 'table-container',
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false, "columns.width": "90%", "columnDefs": [ "visible": false, "targets": [8,9] ] } },
+        datatables_options: {"paging": false, "columns.width": "90%", "columns": [ null, null, null, null, null, null, null, null, {"visible": false}, {"visible": false} ] },
         custom_formatting: [[5, format_link]]
 
     });
