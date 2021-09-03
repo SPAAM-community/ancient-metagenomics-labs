@@ -37,7 +37,7 @@ The purpose of this list to promote further collaboration between labs by: makin
     }
 
     CsvToHtmlTable.init({
-        csv_path: 'data/ancient-metagenomics_labs.csv',
+        csv_path: 'data/ancient-metagenomics-labs.csv',
         element: 'table-container',
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
