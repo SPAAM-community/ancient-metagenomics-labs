@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MSS",
+        "ID of Lab": "EVA",
         "Name of Lab": "Microbiome Sciences",
         "Name of PI": "Prof. Christina Warinner",
         "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie",
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MPS",
+        "ID of Lab": "IPR",
         "Name of Lab": "Microbial Paleogenomics",
         "Name of PI": "Dr. Nicolás Rascovan",
         "Name of Institution": "Institut Pasteur",
@@ -44,7 +44,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "GIL",
+        "ID of Lab": "UEH",
         "Name of Lab": "Guschanski Lab",
         "Name of PI": "Dr. Katerina Guschanski",
         "Name of Institution": "University of Edinburgh",
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MAH",
+        "ID of Lab": "PSU",
         "Name of Lab": "MicroARCH",
         "Name of PI": "Dr. Laura Weyrich",
         "Name of Institution": "Penn State University",
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MRN",
+        "ID of Lab": "UCO",
         "Name of Lab": "GenSCAPE Lab",
         "Name of PI": "Dr. Maanasa Raghavan",
         "Name of Institution": "University of Chicago",
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PSD",
+        "ID of Lab": "FCI",
         "Name of Lab": "Crick Ancient Genomics",
         "Name of PI": "Dr. Pontus Skoglund",
         "Name of Institution": "Francis Crick Institute",
@@ -164,7 +164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "LAM",
+        "ID of Lab": "UNAM",
         "Name of Lab": "Laboratorio de Antropología Molecular",
         "Name of PI": "Dr. Angélica González",
         "Name of Institution": "Univesidad Nacional Autónoma de México",
@@ -204,7 +204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "APS",
+        "ID of Lab": "EVA",
         "Name of Lab": "Ancient Pathogenomics",
         "Name of PI": "Dr. Alexander Herbig",
         "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie",
@@ -224,7 +224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PHN",
+        "ID of Lab": "UIT",
         "Name of Lab": "Heintzman Lab",
         "Name of PI": "Dr. Peter Heintzman",
         "Name of Institution": "UiT – Norges arktiske universitet",
@@ -244,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "HPGL",
+        "ID of Lab": "UCSC",
         "Name of Lab": "UCSC Human Paleogenomics Lab",
         "Name of PI": "Dr. Lars Fehren-Schmitz",
         "Name of Institution": "University of California, Santa Cruz",
@@ -264,7 +264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "EPS",
+        "ID of Lab": "MPIIB",
         "Name of Lab": "Evolutionary Pathogenomics",
         "Name of PI": "Dr. Felix M. Key",
         "Name of Institution": "Max-Planck-Institut für Infektionsbiologie",
@@ -284,7 +284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PBT",
+        "ID of Lab": "HKI",
         "Name of Lab": "Paleobiotechnology",
         "Name of PI": "Dr. Pierre Stallforth",
         "Name of Institution": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie Hans-Knöll-Institut",
@@ -304,7 +304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MGS",
+        "ID of Lab": "UCL",
         "Name of Lab": "Microbial Genomics",
         "Name of PI": "Dr. Lucy van Dorp",
         "Name of Institution": "University College London Genetics Institute",
@@ -324,7 +324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MAC",
+        "ID of Lab": "MMU",
         "Name of Lab": "McMaster Ancient DNA Centre",
         "Name of PI": "Dr. Hendrik Poinar",
         "Name of Institution": "McMaster University",
@@ -344,7 +344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MPY",
+        "ID of Lab": "EVA",
         "Name of Lab": "Molecular Palaeopathology",
         "Name of PI": "Dr. Kirsten Bos",
         "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie",
@@ -364,7 +364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PGP",
+        "ID of Lab": "UZH",
         "Name of Lab": "Paleogenetics Group",
         "Name of PI": "Assoc. Prof. Verena Schuenemann",
         "Name of Institution": "Universität Zürich",
@@ -384,7 +384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PBN",
+        "ID of Lab": "UOD",
         "Name of Lab": "Palaeobarn",
         "Name of PI": "Prof. Greger Larson",
         "Name of Institution": "University of Oxford",
@@ -404,7 +404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "SNE",
+        "ID of Lab": "ASU",
         "Name of Lab": "Stone Lab",
         "Name of PI": "Prof. Anne Stone",
         "Name of Institution": "Arizona State University",
@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "AAN",
+        "ID of Lab": "UWK",
         "Name of Lab": "Achtman Lab",
         "Name of PI": "Prof. Mark Achtman",
         "Name of Institution": "Warwick Medical School, University of Warwick",
@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "GTO",
+        "ID of Lab": "UPR",
         "Name of Lab": "Toranzo Lab",
         "Name of PI": "Prof. Gary Toranzo",
         "Name of Institution": "Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",
@@ -504,7 +504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "CMS",
+        "ID of Lab": "CIBIO",
         "Name of Lab": "Computational Metagenomics Lab",
         "Name of PI": "Prof. Nicola Segata",
         "Name of Institution": "CIBIO, Università Di Trento",
@@ -524,7 +524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "HMS",
+        "ID of Lab": "NTNU",
         "Name of Lab": "Holomuseomics",
         "Name of PI": "Assoc. Prof. Michael D. Martin",
         "Name of Institution": "NTNU Vitenskapsmuseet",
@@ -584,7 +584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "CMA",
+        "ID of Lab": "RTV",
         "Name of Lab": "Centre of Moleucular Anthropology for Ancient DNA studies",
         "Name of PI": "Dr. Claudio Ottoni",
         "Name of Institution": "University of Rome Tor Vergata",
@@ -604,7 +604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "ARS",
+        "ID of Lab": "BUY",
         "Name of Lab": "Reynolds Lab",
         "Name of PI": "Dr. Austin Reynolds",
         "Name of Institution": "Baylor University",
@@ -624,10 +624,10 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PEG",
+        "ID of Lab": "LIIGH",
         "Name of Lab": "Population & Evolutionary Genomics",
         "Name of PI": "Dr. Maria Ávila Arcos",
-        "Name of Institution": "Univesidad Nacional Autónoma de México",
+        "Name of Institution": "Laboratorio Internacional de Investigación sobre el Genoma Humano, Univesidad Nacional Autónoma de México",
         "Country of Institution": "Mexico",
         "Webpage": "https://liigh.unam.mx/mavila/",
         "Ancient Metagenomics Research Focus": "host-associated, microbial-genomics, environmental",
@@ -644,7 +644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "SRA",
+        "ID of Lab": "GGI",
         "Name of Lab": "Sikora Group",
         "Name of PI": "Assoc. Prof. Martin Sikora",
         "Name of Institution": "GeoGenetics, GLOBE Institute, Københavns Universitet",
@@ -664,7 +664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PEL",
+        "ID of Lab": "GGI",
         "Name of Lab": "Paleo-Environmental Genomics Group",
         "Name of PI": "Assis. Prof. Mikkel Winther Pedersen",
         "Name of Institution": "GeoGenetics, GLOBE Institute, Københavns Universitet",
@@ -684,7 +684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "MES",
+        "ID of Lab": "GGI",
         "Name of Lab": "Microbial EcoGenomics Group",
         "Name of PI": "Assis. Antonio Fernandez-Guerra",
         "Name of Institution": "GeoGenetics, GLOBE Institute, Københavns Universitet",
@@ -704,7 +704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "WEV",
+        "ID of Lab": "GGI",
         "Name of Lab": "Willerslev Group",
         "Name of PI": "Prof. Eske Willerslev",
         "Name of Institution": "GeoGenetics, GLOBE Institute, Københavns Universitet",
@@ -724,7 +724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "SER",
+        "ID of Lab": "EGI",
         "Name of Lab": "Schroeder Group",
         "Name of PI": "Assoc. Prof. Hannes Schroeder",
         "Name of Institution": "EvoGenomics, GLOBE Institute, Københavns Universitet",
@@ -744,7 +744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "GRT",
+        "ID of Lab": "EGI",
         "Name of Lab": "Gilbert Group",
         "Name of PI": "Prof. Tom Gilbert",
         "Name of Institution": "EvoGenomics, GLOBE Institute, Københavns Universitet",
@@ -764,7 +764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "HGS",
+        "ID of Lab": "UTA",
         "Name of Lab": "Historical and Prehistorical Genetics Laboratory",
         "Name of PI": "Dr. Vivane Slon",
         "Name of Institution": "Universitat Tel Aviv",
@@ -784,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "ARH",
+        "ID of Lab": "IKMB",
         "Name of Lab": "Ancient DNA Research",
         "Name of PI": "Prof. Ben Krause-Kyora",
         "Name of Institution": "Institute of Clinical Molecular Biology, Christian-Albrechts-Universität zu Kiel",
@@ -804,7 +804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "PGS",
+        "ID of Lab": "UPF",
         "Name of Lab": "Paleogenomics Lab",
         "Name of PI": "Carles Lalueza-Fox",
         "Name of Institution": "L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra",
@@ -824,7 +824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID of Lab": "ELTP",
+        "ID of Lab": "URS",
         "Name of Lab": "Ecobio Lab Team Palaeogenomics",
         "Name of PI": "Dr. Morgane Ollivier",
         "Name of Institution": "Unviersity of Rennes 1 / CNRS",
