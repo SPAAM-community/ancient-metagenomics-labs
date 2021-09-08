@@ -18,9 +18,9 @@ We hope this will help with identifying: potential collborators, thesis committe
 - [Map of ancient metagenomics lab](#map-of-ancient-metagenomics-labs)
 - [List of ancient metagenomics labs](#table-of-ancient-metagenomics-labs)
 
-> :thumbsup:  **To submit a new lab**, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues) or contact [James Fellows Yates](email:jfy133@gmail.com).
+> :thumbsup:  **To submit a new lab**, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues) or contact James Fellows Yates (jfy133 \[at\] gmail\.com).
 
-> :thumbsdown: **If you wish your lab to be removed** from this list, please contact [James Fellows Yates](email:jfy133@gmail.com). Labs are only included if they already have a web presence.
+> :thumbsdown: **If you wish your lab to be removed** from this list, please contact James Fellows Yates (jfy133 \[at\] gmail\.com). Labs are only included if they already have a web presence.
 
 ## Map of Ancient Metagenomics Labs
 
