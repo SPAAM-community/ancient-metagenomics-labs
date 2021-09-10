@@ -545,11 +545,11 @@
       "type": "Feature",
       "properties": {
         "ID of Lab": "LMAMR",
-        "Name of Lab": "Lewis Working Group",
+        "Name of Lab": "Laboratories of Molecular Anthropology and Microbiome Research",
         "Name of PI": "Prof. Cecil Lewis",
         "Name of Institution": "University of Oklahoma",
         "Country of Institution": "USA",
-        "Webpage": "http://courtneyhofman.com/",
+        "Webpage": "https://lmamr.org/",
         "Ancient Metagenomics Research Focus": "host-associated",
         "Active": "☑"
       },
@@ -565,7 +565,7 @@
       "type": "Feature",
       "properties": {
         "ID of Lab": "LMAMR",
-        "Name of Lab": "Hofman Working Group",
+        "Name of Lab": "Laboratories of Molecular Anthropology and Microbiome Research",
         "Name of PI": "Assis. Prof. Courtney Hofman",
         "Name of Institution": "University of Oklahoma",
         "Country of Institution": "USA",

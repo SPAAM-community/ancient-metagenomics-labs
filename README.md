@@ -32,6 +32,14 @@ We hope this will help with identifying: potential collborators, thesis committe
 
 <p class="text-right">Rendered by <a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by <a href="http://derekeder.com">Derek Eder</a> under a <a href="https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE">MIT license</a></p>
 
+## Technical Information
+
+The GEOjson file used for map rendering by GitHub is generated using the [csv2geojson](https://github.com/mapbox/csv2geojson) tool using the following command
+
+```console
+csv2geojson data/ancient-metagenomics-labs.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs.geojson 
+```
+
 <script>
     function format_link(link) {
         if (link)
