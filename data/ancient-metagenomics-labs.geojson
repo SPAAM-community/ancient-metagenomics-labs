@@ -16,8 +16,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3966546802915,
-          51.3223889802915
+          12.39478,
+          51.32089
         ]
       }
     },
@@ -36,8 +36,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3122407802915,
-          48.8421234802915
+          2.3122407,
+          48.8421234
         ]
       }
     },
@@ -57,7 +57,7 @@
         "type": "Point",
         "coordinates": [
           -3.188501,
-          55.9458647802915
+          55.9458647
         ]
       }
     },
@@ -76,8 +76,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.8585594197085,
-          40.7995622802915
+          -77.85855941,
+          40.7995622
         ]
       }
     },
@@ -96,8 +96,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.5973643197085,
-          41.7899568802915
+          -87.59736431,
+          41.7899568
         ]
       }
     },
@@ -116,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.7212148802915,
-          58.3824332802915
+          26.7212148,
+          58.3824332
         ]
       }
     },
@@ -137,7 +137,7 @@
         "type": "Point",
         "coordinates": [
           -0.127396519708498,
-          51.5329987802915
+          51.5329987
         ]
       }
     },
@@ -156,8 +156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.2518245197085,
-          41.8110678802915
+          -72.25182451,
+          41.8110678
         ]
       }
     },
@@ -216,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3966546802915,
-          51.3223889802915
+          12.3966546,
+          51.3223889
         ]
       }
     },
@@ -236,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.9725650802915,
-          69.6811516802915
+          18.972565,
+          69.6811516
         ]
       }
     },
@@ -256,8 +256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.056860319709,
-          36.9893992802915
+          -122.05686,
+          36.9893992
         ]
       }
     },
@@ -276,8 +276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3770731802915,
-          52.5264889802915
+          13.3770731,
+          52.5264889
         ]
       }
     },
@@ -296,8 +296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5742225802915,
-          50.9102864802915
+          11.5742225,
+          50.9102864
         ]
       }
     },
@@ -310,14 +310,14 @@
         "Name of Institution": "University College London Genetics Institute",
         "Country of Institution": "United Kingdom",
         "Webpage": "https://www.ucl.ac.uk/~ucbpvan/",
-        "Ancient Metagenomics Research Focus": "microbial genomics",
+        "Ancient Metagenomics Research Focus": "microbial-genomics",
         "Active": "☑"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -0.132691119708498,
-          51.5259081802915
+          51.5259081
         ]
       }
     },
@@ -336,8 +336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.9178764197085,
-          43.2622279802915
+          -79.91787641,
+          43.2622279
         ]
       }
     },
@@ -356,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3966546802915,
-          51.3223889802915
+          12.3966546,
+          51.3223889
         ]
       }
     },
@@ -376,8 +376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5523301802915,
-          47.3756710802915
+          8.5523301,
+          47.375671
         ]
       }
     },
@@ -396,8 +396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2530178197085,
-          51.7561653802915
+          -1.25301781,
+          51.7561653
         ]
       }
     },
@@ -416,8 +416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.070634319709,
-          33.4545654802915
+          -112.070634,
+          33.4545654
         ]
       }
     },
@@ -436,8 +436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5492727197085,
-          52.3761174802915
+          -1.54927271,
+          52.3761174
         ]
       }
     },
@@ -456,8 +456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.4512546802915,
-          43.5957794802915
+          1.4512546,
+          43.5957794
         ]
       }
     },
@@ -476,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.3486916802915,
-          46.4959135802915
+          11.3486916,
+          46.4959135
         ]
       }
     },
@@ -496,8 +496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.0486917197085,
-          18.4041580802915
+          -66.04869171,
+          18.404158
         ]
       }
     },
@@ -516,8 +516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.1515911802915,
-          46.0695318802915
+          11.1515911,
+          46.0695318
         ]
       }
     },
@@ -536,8 +536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3877934802915,
-          63.4304107802915
+          10.3877934,
+          63.4304107
         ]
       }
     },
@@ -556,8 +556,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4443647197085,
-          35.2072425802915
+          -97.44436471,
+          35.2072425
         ]
       }
     },
@@ -576,8 +576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4443647197085,
-          35.2072425802915
+          -97.44436471,
+          35.2072425
         ]
       }
     },
@@ -596,8 +596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6300251802915,
-          41.8549890802915
+          12.6300251,
+          41.854989
         ]
       }
     },
@@ -616,8 +616,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.1117083197085,
-          31.5502412802915
+          -97.11170831,
+          31.5502412
         ]
       }
     },
@@ -630,7 +630,7 @@
         "Name of Institution": "Laboratorio Internacional de Investigación sobre el Genoma Humano, Univesidad Nacional Autónoma de México",
         "Country of Institution": "Mexico",
         "Webpage": "https://liigh.unam.mx/mavila/",
-        "Ancient Metagenomics Research Focus": "host-associated, microbial-genomics, environmental",
+        "Ancient Metagenomics Research Focus": "host-associated,microbial-genomics,environmental",
         "Active": "☑"
       },
       "geometry": {
@@ -656,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5784967802915,
-          55.6885176802915
+          12.5784967,
+          55.6885176
         ]
       }
     },
@@ -676,8 +676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5784967802915,
-          55.6885176802915
+          12.5784967,
+          55.6885176
         ]
       }
     },
@@ -696,8 +696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5784967802915,
-          55.6885176802915
+          12.5784967,
+          55.6885176
         ]
       }
     },
@@ -716,8 +716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5784967802915,
-          55.6885176802915
+          12.5784967,
+          55.6885176
         ]
       }
     },
@@ -736,8 +736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5784967802915,
-          55.6885176802915
+          12.5784967,
+          55.6885176
         ]
       }
     },
@@ -756,8 +756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5784967802915,
-          55.6885176802915
+          12.5784967,
+          55.6885176
         ]
       }
     },
@@ -776,8 +776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8057366802915,
-          32.1146630802915
+          34.8057366,
+          32.114663
         ]
       }
     },
@@ -796,8 +796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1160511802915,
-          54.3474038802915
+          10.1160511,
+          54.3474038
         ]
       }
     },
@@ -816,8 +816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1811476802915,
-          41.3803282802915
+          2.1811476,
+          41.3803282
         ]
       }
     },
@@ -830,7 +830,7 @@
         "Name of Institution": "Unviersity of Rennes 1 / CNRS",
         "Country of Institution": "France",
         "Webpage": "https://ecobio.univ-rennes1.fr/evolution-des-genomes-traits-dhistoire-de-vie-et-adaptation",
-        "Ancient Metagenomics Research Focus": "host-associated, microbial-genomics, environmental",
+        "Ancient Metagenomics Research Focus": "host-associated,microbial-genomics,environmental",
         "Active": "☑"
       },
       "geometry": {
@@ -838,6 +838,46 @@
         "coordinates": [
           -1.638029,
           48.118107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID of Lab": "INA",
+        "Name of Lab": "Archaeo- and Palaeogenetics",
+        "Name of PI": "Jun. Prof. Cosimo Posth",
+        "Name of Institution": "Eberhard Karls Universität Tübingen",
+        "Country of Institution": "Germany",
+        "Webpage": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/urgeschichte-naturwissenschaftliche-archaeologie/forschungsbereich/archaeo-and-palaeogenetik/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics",
+        "Active": "☑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.060097,
+          48.526412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID of Lab": "TIDE",
+        "Name of Lab": "Transmission, Infection, Diversification & Evolution Group",
+        "Name of PI": "Dr Denise Kühnert",
+        "Name of Institution": "Max Planck Institute for the Science of Human History",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.shh.mpg.de/tide",
+        "Ancient Metagenomics Research Focus": "microbial-genomics",
+        "Active": "☑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578511,
+          50.917755
         ]
       }
     }
