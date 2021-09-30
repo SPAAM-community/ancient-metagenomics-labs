@@ -13,7 +13,7 @@ This is a [SPAAM community](https://spaam-community.github.io/) curated list of 
 
 The purpose of this list to promote further collaboration between labs by making labs working in ancient metagenomics more visible.
 
-We hope this will help with identifying: potential collborators, thesis committee and publication reviewers, and also potential future academic employers.
+We hope this will help with identifying: potential collaborators, thesis committee and publication reviewers, and also potential future academic employers.
 
 - [Map of ancient metagenomics lab](#map-of-ancient-metagenomics-labs)
 - [List of ancient metagenomics labs](#table-of-ancient-metagenomics-labs)
@@ -22,10 +22,11 @@ We hope this will help with identifying: potential collborators, thesis committe
 
 > :thumbsdown: **If you wish your lab to be removed** from this list, please contact James Fellows Yates (jfy133 \[at\] gmail\.com). Labs are only included if they already have a web presence.
 
-## Map of Ancient Metagenomics Labs
+## Map of Institutions with Ancient Metagenomics Labs
 
-[AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs.geojson ':include :type=iframe width=300px height=400px')
+[AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/data/ancient-metagenomics-labs_mapdata.geojson ':include :type=iframe width=300px height=400px')
 
+> 🛈 Multiple labs may exist within a single institution
 ## Table of Ancient Metagenomics Labs
 
 <div id="table-container"></div>
@@ -37,7 +38,8 @@ We hope this will help with identifying: potential collborators, thesis committe
 The GEOjson file used for map rendering by GitHub is generated using the [csv2geojson](https://github.com/mapbox/csv2geojson) tool using the following command
 
 ```console
-csv2geojson data/ancient-metagenomics-labs.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs.geojson 
+awk -vFPAT='[^,]*|"[^"]*"' '{$1=$1","; print $4","$9","$10}' data/ancient-metagenomics-labs.csv | sort | uniq > data/ancient-metagenomics-labs_mapdata.csv
+csv2geojson data/ancient-metagenomics-labs_mapdata.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs_mapdata.geojson
 ```
 
 <script>

@@ -1,0 +1,473 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Arizona State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.070634,
+          33.4545654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Baylor University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.11170831,
+          31.5502412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Eberhard Karls Universität Tübingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.060097,
+          48.526412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "EURAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3486916,
+          46.4959135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Faculté de Médecine Purpan, Université Toulouse III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4512546,
+          43.5957794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Francis Crick Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127396519708498,
+          51.5329987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "GLOBE Institute, Københavns Universitet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5784967,
+          55.6885176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Institute of Clinical Molecular Biology, Christian-Albrechts-Universität zu Kiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1160511,
+          54.3474038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Institut Pasteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3122407,
+          48.8421234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Laboratorio Internacional de Investigación sobre el Genoma Humano, Univesidad Nacional Autónoma de México"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.446854,
+          20.700131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie Hans-Knöll-Institut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5742225,
+          50.9102864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1811476,
+          41.3803282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Max Planck Institute for the Science of Human History"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578511,
+          50.917755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39478,
+          51.32089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Max-Planck-Institut für Infektionsbiologie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3770731,
+          52.5264889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "McMaster University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91787641,
+          43.2622279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "NTNU Vitenskapsmuseet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3877934,
+          63.4304107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Penn State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85855941,
+          40.7995622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Stockholm University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057638,
+          59.36195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Tartu Ülikool, Genoomika Instituut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7212148,
+          58.3824332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "UiT - Norges arktiske universitet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.972565,
+          69.6811516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.04869171,
+          18.404158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Università Di Trento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1515911,
+          46.0695318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Universitat Tel Aviv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8057366,
+          32.114663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Universität Zürich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5523301,
+          47.375671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University College London Genetics Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.132691119708498,
+          51.5259081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University of California, Santa Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.05686,
+          36.9893992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University of Chicago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59736431,
+          41.7899568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University of Connecticut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.25182451,
+          41.8110678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University of Edinburgh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188501,
+          55.9458647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University of Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44436471,
+          35.2072425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University of Oxford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25301781,
+          51.7561653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "University of Rome Tor Vergata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6300251,
+          41.854989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Univesidad Nacional Autónoma de México"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.179089,
+          19.324072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Unviersity of Rennes 1 / CNRS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.638029,
+          48.118107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name of Institution": "Warwick Medical School, University of Warwick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54927271,
+          52.3761174
+        ]
+      }
+    }
+  ]
+}
