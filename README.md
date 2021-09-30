@@ -24,7 +24,7 @@ We hope this will help with identifying: potential collaborators, thesis committ
 
 ## Map of Institutions with Ancient Metagenomics Labs
 
-[AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/data/ancient-metagenomics-labs_mapdata.geojson ':include :type=iframe width=300px height=400px')
+[AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs_mapdata.geojson ':include :type=iframe width=300px height=400px')
 
 > 🛈 Multiple labs may exist within a single institution
 ## Table of Ancient Metagenomics Labs
@@ -38,7 +38,7 @@ We hope this will help with identifying: potential collaborators, thesis committ
 The GEOjson file used for map rendering by GitHub is generated using the [csv2geojson](https://github.com/mapbox/csv2geojson) tool using the following command
 
 ```console
-awk -vFPAT='[^,]*|"[^"]*"' '{$1=$1","; print $4","$9","$10}' data/ancient-metagenomics-labs.csv | sort | uniq > data/ancient-metagenomics-labs_mapdata.csv
+awk -vFPAT='[^,]*|"[^"]*"' '{print $4","$9","$10}' data/ancient-metagenomics-labs.csv | (sed -u 1q; sort) | uniq > data/ancient-metagenomics-labs_mapdata.csv
 csv2geojson data/ancient-metagenomics-labs_mapdata.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs_mapdata.geojson
 ```
 
