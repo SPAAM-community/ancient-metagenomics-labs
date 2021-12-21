@@ -212,6 +212,19 @@
     {
       "type": "Feature",
       "properties": {
+        "Name of Institution": "Natural History Museum London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.176519,
+          51.497041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name of Institution": "NTNU Vitenskapsmuseet"
       },
       "geometry": {
