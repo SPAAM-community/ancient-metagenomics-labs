@@ -446,6 +446,19 @@
     {
       "type": "Feature",
       "properties": {
+        "Name of Institution": "University of York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.057853,
+          53.946347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name of Institution": "Univesidad Nacional Autónoma de México"
       },
       "geometry": {
