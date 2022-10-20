@@ -316,6 +316,19 @@
     {
       "type": "Feature",
       "properties": {
+        "Name of Institution": "Universität Konstanz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.193513,
+          47.695236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name of Institution": "Universitat Tel Aviv"
       },
       "geometry": {
