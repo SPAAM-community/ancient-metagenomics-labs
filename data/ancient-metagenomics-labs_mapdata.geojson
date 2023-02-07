@@ -277,6 +277,19 @@
     {
       "type": "Feature",
       "properties": {
+        "Name of Institution": "Technical University of Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.521014,
+          55.787632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name of Institution": "UiT - Norges arktiske universitet"
       },
       "geometry": {
