@@ -20,7 +20,6 @@ EVA,Molecular Palaeopathology,Dr. Kirsten Bos,Max-Planck-Institut für evolution
 UZH,Paleogenetics Group,Assoc. Prof. Verena Schuenemann,Universität Zürich,Switzerland,https://www.iem.uzh.ch/en/research/paleogenetics_group_sch%C3%BCnemann.html,microbial-genomics,☑,47.375671,8.5523301
 UOD,Palaeobarn,Prof. Greger Larson,University of Oxford,United Kingdom,https://www.palaeobarn.com/,microbial-genomics,☑,51.7561653,-1.25301781
 ASU,Stone Lab,Prof. Anne Stone,Arizona State University,USA,https://stone.lab.asu.edu/,microbial-genomics,☑,33.4545654,-112.070634
-UWK,Achtman Lab,Prof. Mark Achtman,"Warwick Medical School, University of Warwick",United Kingdom,https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/,"microbial-genomics,host-associated",☑,52.3761174,-1.54927271
 AGES,"Archaeology, Genomics, Evolution and Societies",Prof. Ludovic Orlando,"Faculté de Médecine Purpan, Université Toulouse III",France,https://cagt.cnrs.fr/ages/,"microbial-genomics,host-associated",☑,43.5957794,1.4512546
 IMS,Institute for Mummy Studies,Dr. Albert Zink,EURAC,Italy,https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies,"microbial-genomics,host-associated",☑,46.4959135,11.3486916
 UPR,Toranzo Lab,Prof. Gary Toranzo,"Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",Puerto Rico,http://brtc.uprrp.edu/marc/index.php/menu/gary-toranzos-ph-d/,host-associated,☑,18.404158,-66.04869171
@@ -49,3 +48,4 @@ BIOARCH,BioArCh,Dr. Nathan Wales,University of York, United Kingdom,https://www.
 EVA,Ancient Environmental Genomics MPRG,Dr. Benjamin Vernot,Max-Planck-Institut für evolutionäre Anthropologie,Germany,https://www.eva.mpg.de/genetics/ancient-environmental-genomics/,"anthropogenic,environmental",☑,51.32089,12.39478
 UKON,Environmental Genomics,Prof. Laura Epp,Universität Konstanz,Germany,https://www.limnologie.uni-konstanz.de/en/ag-epp-environmental-genomics/,"environmental",☑,47.695236,9.193513
 MAAG,Modern and Ancient Genomes,Assoc. Prof. Gabriel Renaud,Technical University of Denmark,Denmark,https://grenaud.github.io/group.html/,"microbial-genomics,environmental",☑,55.787632,12.521014
+UWK,Achtman Lab,Prof. Mark Achtman,"Warwick Medical School, University of Warwick",United Kingdom,https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/,"microbial-genomics,host-associated",❎,52.3761174,-1.54927271
