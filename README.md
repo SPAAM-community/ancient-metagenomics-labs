@@ -24,10 +24,16 @@ We hope this will help with identifying: potential collaborators, thesis committ
 
 ## Map of Institutions with Ancient Metagenomics Labs
 
-[AncientMetagenomeDir](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs_mapdata.geojson ':include :type=iframe width=300px height=400px')
+[Ancient Metagenomics Labs](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs_mapdata.geojson ':include :type=iframe width=300px height=400px')
 
 > 🛈 Multiple labs may exist within a single institution
 ## Table of Ancient Metagenomics Labs
+
+**Legend**
+
+- ✅: Active
+- ❎: Inactive
+- 🚚: Moved (see new institution on list)
 
 <div id="table-container"></div>
 

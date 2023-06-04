@@ -1,41 +1,52 @@
-Name of Institution,Latitude,Longitude
-Arizona State University,33.4545654,-112.070634
-Baylor University,31.5502412,-97.11170831
-Eberhard Karls Universität Tübingen,48.526412,9.060097
-EURAC,46.4959135,11.3486916
-"Faculté de Médecine Purpan, Université Toulouse III",43.5957794,1.4512546
-Francis Crick Institute,51.5329987,-0.127396519708498
-"GLOBE Institute, Københavns Universitet",55.6885176,12.5784967
-"Institute of Clinical Molecular Biology, Christian-Albrechts-Universität zu Kiel",54.3474038,10.1160511
-Institut Pasteur,48.8421234,2.3122407
-"Laboratorio Internacional de Investigación sobre el Genoma Humano, Univesidad Nacional Autónoma de México",20.700131,-100.446854
-Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie Hans-Knöll-Institut,50.9102864,11.5742225
-"L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra",41.3803282,2.1811476
-Max Planck Institute for the Science of Human History,50.917755,11.578511
-Max-Planck-Institut für evolutionäre Anthropologie,51.32089,12.39478
-Max-Planck-Institut für Infektionsbiologie,52.5264889,13.3770731
-McMaster University,43.2622279,-79.91787641
-Natural History Museum London,51.497041,-0.176519
-NTNU Vitenskapsmuseet,63.4304107,10.3877934
-Penn State University,40.7995622,-77.85855941
-Stockholm University,59.36195,18.057638
-"Tartu Ülikool, Genoomika Instituut",58.3824332,26.7212148
-Technical University of Denmark,55.787632,12.521014
-UiT - Norges arktiske universitet,69.6811516,18.972565
-"Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",18.404158,-66.04869171
-Università Di Trento,46.0695318,11.1515911
-Universität Konstanz,47.695236,9.193513
-Universitat Tel Aviv,32.114663,34.8057366
-Universität Zürich,47.375671,8.5523301
-University College London Genetics Institute,51.5259081,-0.132691119708498
-"University of California, Santa Cruz",36.9893992,-122.05686
-University of Chicago,41.7899568,-87.59736431
-University of Connecticut,41.8110678,-72.25182451
-University of Edinburgh,55.9458647,-3.188501
-University of Oklahoma,35.2072425,-97.44436471
-University of Oxford,51.7561653,-1.25301781
-University of Rome Tor Vergata,41.854989,12.6300251
-University of York,53.946347,-1.057853
-Univesidad Nacional Autónoma de México,19.324072,-99.179089
-Unviersity of Rennes 1 / CNRS,48.118107,-1.638029
-"Warwick Medical School, University of Warwick",52.3761174,-1.54927271
+Name of PI,Latitude,Longitude
+Assis. Antonio Fernandez-Guerra,55.6885176,12.5784967
+Assis. Prof. Courtney Hofman,35.2072425,-97.44436471
+Assis. Prof. Mikkel Winther Pedersen,55.6885176,12.5784967
+Assoc. Prof. Gabriel Renaud,55.787632,12.521014
+Assoc. Prof. Hannes Schroeder,55.6885176,12.5784967
+Assoc. Prof. Martin Sikora,55.6885176,12.5784967
+Assoc. Prof. Michael D. Martin,63.4304107,10.3877934
+Assoc. Prof. Verena Schuenemann,47.375671,8.5523301
+Dr. Albert Zink,46.4959135,11.3486916
+Dr. Alexander Herbig,51.32089,12.39478
+Dr. Angélica González,19.324072,-99.179089
+Dr. Austin Reynolds,31.5502412,-97.11170831
+Dr. Benjamin Vernot,51.32089,12.39478
+Dr. Christiana L. Scheib,58.3824332,26.7212148
+Dr. Claudio Ottoni,41.854989,12.6300251
+Dr. Deborah Bolnick,41.8110678,-72.25182451
+Dr Denise Kühnert,50.917755,11.578511
+Dr. Felix M. Key,52.5264889,13.3770731
+Dr. Hendrik Poinar,43.2622279,-79.91787641
+Dr. Katerina Guschanski,55.9458647,-3.188501
+Dr. Kirsten Bos,51.32089,12.39478
+Dr. Lars Fehren-Schmitz,36.9893992,-122.05686
+Dr. Laura Weyrich,40.7995622,-77.85855941
+Dr. Lucy van Dorp,51.5259081,-0.132691119708498
+Dr. Maanasa Raghavan,41.7899568,-87.59736431
+Dr. Maria Ávila Arcos,20.700131,-100.446854
+Dr. Morgane Ollivier,48.118107,-1.638029
+Dr. Nathan Wales,53.946347,-1.057853
+Dr. Nicolás Rascovan,48.8421234,2.3122407
+Dr. Peter Heintzman,59.36195,18.057638
+Dr. Peter Heintzman,69.6811516,18.972565
+Dr. Pierre Stallforth,50.9102864,11.5742225
+Dr. Pontus Skoglund,51.5329987,-0.127396519708498
+Dr. Selina Brace,51.497041,-0.176519
+Dr. Viviane Slon,32.114663,34.8057366
+Jun. Prof. Cosimo Posth,48.526412,9.060097
+Prof. Anders Götherström,59.36195,18.057638
+Prof. Anne Stone,33.4545654,-112.070634
+Prof. Ben Krause-Kyora,54.3474038,10.1160511
+Prof. Carles Lalueza-Fox,41.3803282,2.1811476
+Prof. Cecil Lewis,35.2072425,-97.44436471
+Prof. Christina Warinner,51.32089,12.39478
+Prof. Eske Willerslev,55.6885176,12.5784967
+Prof. Gary Toranzo,18.404158,-66.04869171
+Prof. Greger Larson,51.7561653,-1.25301781
+Prof. Ian Barnes,51.497041,-0.176519
+Prof. Laura Epp,47.695236,9.193513
+Prof. Ludovic Orlando,43.5957794,1.4512546
+Prof. Mark Achtman,52.3761174,-1.54927271
+Prof. Nicola Segata,46.0695318,11.1515911
+Prof. Tom Gilbert,55.6885176,12.5784967
