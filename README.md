@@ -2,13 +2,13 @@
 
 <div align="center">
 
-    ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) 
+![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) 
 
 </div>
 
 <div align="center">
 
-    ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
+![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
 
 </div>
 
