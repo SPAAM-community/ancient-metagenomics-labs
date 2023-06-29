@@ -1,11 +1,5 @@
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-AncientMetagenomicLabs_logo.svg" width=10%>
-
-<p/>
-
-<h1 align="center">Ancient Metagenomics Labs</h1>
+# Ancient Metagenomic Labs
+# ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) ![ancient-metagenomic-labs](assets/_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
 
 ## Description
 
@@ -15,8 +9,12 @@ The purpose of this list to promote further collaboration between labs by making
 
 We hope this will help with identifying: potential collaborators, thesis committee and publication reviewers, and also potential future academic employers.
 
-- [Map of ancient metagenomics lab](#map-of-ancient-metagenomics-labs)
-- [List of ancient metagenomics labs](#table-of-ancient-metagenomics-labs)
+- [Ancient Metagenomic Labs](#ancient-metagenomic-labs)
+- [ ](#-)
+  - [Description](#description)
+  - [Map of Institutions with Ancient Metagenomics Labs](#map-of-institutions-with-ancient-metagenomics-labs)
+  - [Table of Ancient Metagenomics Labs](#table-of-ancient-metagenomics-labs)
+  - [Technical Information](#technical-information)
 
 > :thumbsup:  **To submit a new lab**, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues) or contact James Fellows Yates (jfy133 \[at\] gmail\.com).
 
