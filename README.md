@@ -1,12 +1,12 @@
 # Ancient Metagenomic Labs
 
-<div align="center">
+<div align="center" width = "50%">
 
-![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) 
+![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only)
 
 </div>
 
-<div align="center">
+<div align="center" width = "50%">
 
 ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
 
