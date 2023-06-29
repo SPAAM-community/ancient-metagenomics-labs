@@ -1,5 +1,16 @@
 # Ancient Metagenomic Labs
-# ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
+
+<div align="center">
+
+    ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) 
+
+</div>
+
+<div align="center">
+
+    ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
+
+</div>
 
 ## Description
 
@@ -10,7 +21,6 @@ The purpose of this list to promote further collaboration between labs by making
 We hope this will help with identifying: potential collaborators, thesis committee and publication reviewers, and also potential future academic employers.
 
 - [Ancient Metagenomic Labs](#ancient-metagenomic-labs)
-- [ ](#-)
   - [Description](#description)
   - [Map of Institutions with Ancient Metagenomics Labs](#map-of-institutions-with-ancient-metagenomics-labs)
   - [Table of Ancient Metagenomics Labs](#table-of-ancient-metagenomics-labs)
