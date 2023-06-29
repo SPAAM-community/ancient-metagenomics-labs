@@ -2,7 +2,7 @@
 
 <div align="center" width = "50%">
 
-![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png)
+![ancient-metagenomic-labs](https://github.com/SPAAM-community/ancient-metagenomics-labs/raw/main/_media/spaam-AncientMetagenomicLabs_logo.png)
 
 </div>
 
