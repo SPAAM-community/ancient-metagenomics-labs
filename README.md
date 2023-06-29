@@ -1,5 +1,5 @@
 # Ancient Metagenomic Labs
-# ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) ![ancient-metagenomic-labs](assets/_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
+# ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo.png#gh-light-mode-only) ![ancient-metagenomic-labs](_media/spaam-AncientMetagenomicLabs_logo_dark.png#gh-dark-mode-only)
 
 ## Description
 
