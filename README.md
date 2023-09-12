@@ -39,7 +39,7 @@ Last updated: 2023-09-12
 **Legend**
 
 - ✅: Active
-- ❎: Inactive
+- ❎: Inactive (in ancient metagenomics)
 - 🚚: Moved (see new institution on list)
 
 <div id="table-container"></div>
