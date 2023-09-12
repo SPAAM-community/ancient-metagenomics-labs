@@ -24,11 +24,14 @@ We hope this will help with identifying: potential collaborators, thesis committ
 
 > :thumbsdown: **If you wish your lab to be removed** from this list, please contact James Fellows Yates (jfy133 \[at\] gmail\.com). Labs are only included if they already have a web presence.
 
+<!--
+
 ## Map of Institutions with Ancient Metagenomics Labs
 
 [Ancient Metagenomics Labs](https://viewscreen.githubusercontent.com/view/geojson?url=https://github.com/SPAAM-community/ancient-metagenomics-labs/raw/main/data/ancient-metagenomics-labs_mapdata.geojson ":include :type=iframe width=100% height=400px")
 
 (Viewable on the [Ancient Metagenomics Labs](https://spaam-community.github.io/ancient-metagenomics-labs/#/) or [here](https://viewscreen.githubusercontent.com/view/geojson?url=https://github.com/SPAAM-community/ancient-metagenomics-labs/raw/main/data/ancient-metagenomics-labs_mapdata.geojson)
+-->
 
 > 🛈 Multiple labs may exist within a single institution
 
