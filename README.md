@@ -28,7 +28,7 @@ We hope this will help with identifying: potential collaborators, thesis committ
 
 [Ancient Metagenomics Labs](https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2fSPAAM-community%2fancient-metagenomics-labs/%2fdata%2fancient-metagenomics-labs_mapdata.geojson ":include :type=iframe width=100% height=400px")
 
-(Viewable on the [Ancient Metagenomics Labs](https://spaam-community.github.io/ancient-metagenomics-labs/#/) or [here]([https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2fSPAAM-community%2fAncientMetagenomeDir%2fmaster%2fassets%2fimages%2ffigures%2fancientmetagenomedir.geojson](https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2fSPAAM-community%2fancient-metagenomics-labs/%2fdata%2fancient-metagenomics-labs_mapdata.geojson)))
+(Viewable on the [Ancient Metagenomics Labs](https://spaam-community.github.io/ancient-metagenomics-labs/#/) or [here](https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2fSPAAM-community%2fancient-metagenomics-labs/%2fdata%2fancient-metagenomics-labs_mapdata.geojson)
 
 > 🛈 Multiple labs may exist within a single institution
 
