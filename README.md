@@ -20,16 +20,21 @@ We hope this will help with identifying: potential collaborators, thesis committ
   - [Table of Ancient Metagenomics Labs](#table-of-ancient-metagenomics-labs)
   - [Technical Information](#technical-information)
 
-> :thumbsup:  **To submit a new lab**, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues) or contact James Fellows Yates (jfy133 \[at\] gmail\.com).
+> :thumbsup: **To submit a new lab**, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues) or contact James Fellows Yates (jfy133 \[at\] gmail\.com).
 
 > :thumbsdown: **If you wish your lab to be removed** from this list, please contact James Fellows Yates (jfy133 \[at\] gmail\.com). Labs are only included if they already have a web presence.
 
 ## Map of Institutions with Ancient Metagenomics Labs
 
-[Ancient Metagenomics Labs](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs_mapdata.geojson ':include :type=iframe width=300px height=400px')
+[Ancient Metagenomics Labs](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/data/ancient-metagenomics-labs_mapdata.geojson ":include :type=iframe width=300px height=400px")
 
 > 🛈 Multiple labs may exist within a single institution
+
 ## Table of Ancient Metagenomics Labs
+
+<!-- TODO update! -->
+
+Last updated: 2023-09-12
 
 **Legend**
 
@@ -49,6 +54,8 @@ The GEOjson file used for map rendering by GitHub is generated using the [csv2ge
 awk -vFPAT='[^,]*|"[^"]*"' '{print $4","$9","$10}' data/ancient-metagenomics-labs.csv | (sed -u 1q; sort) | uniq > data/ancient-metagenomics-labs_mapdata.csv
 csv2geojson data/ancient-metagenomics-labs_mapdata.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs_mapdata.geojson
 ```
+
+When updating the table, make sure to add 'last updated' sentence above the table.
 
 <script>
     function format_link(link) {

@@ -1,52 +1,51 @@
-Name of PI,Latitude,Longitude
-Assis. Antonio Fernandez-Guerra,55.6885176,12.5784967
-Assis. Prof. Courtney Hofman,35.2072425,-97.44436471
-Assis. Prof. Mikkel Winther Pedersen,55.6885176,12.5784967
-Assoc. Prof. Gabriel Renaud,55.787632,12.521014
-Assoc. Prof. Hannes Schroeder,55.6885176,12.5784967
-Assoc. Prof. Martin Sikora,55.6885176,12.5784967
-Assoc. Prof. Michael D. Martin,63.4304107,10.3877934
-Assoc. Prof. Verena Schuenemann,47.375671,8.5523301
-Dr. Albert Zink,46.4959135,11.3486916
-Dr. Alexander Herbig,51.32089,12.39478
-Dr. Angélica González,19.324072,-99.179089
-Dr. Austin Reynolds,31.5502412,-97.11170831
-Dr. Benjamin Vernot,51.32089,12.39478
-Dr. Christiana L. Scheib,58.3824332,26.7212148
-Dr. Claudio Ottoni,41.854989,12.6300251
-Dr. Deborah Bolnick,41.8110678,-72.25182451
-Dr Denise Kühnert,50.917755,11.578511
-Dr. Felix M. Key,52.5264889,13.3770731
-Dr. Hendrik Poinar,43.2622279,-79.91787641
-Dr. Katerina Guschanski,55.9458647,-3.188501
-Dr. Kirsten Bos,51.32089,12.39478
-Dr. Lars Fehren-Schmitz,36.9893992,-122.05686
-Dr. Laura Weyrich,40.7995622,-77.85855941
-Dr. Lucy van Dorp,51.5259081,-0.132691119708498
-Dr. Maanasa Raghavan,41.7899568,-87.59736431
-Dr. Maria Ávila Arcos,20.700131,-100.446854
-Dr. Morgane Ollivier,48.118107,-1.638029
-Dr. Nathan Wales,53.946347,-1.057853
-Dr. Nicolás Rascovan,48.8421234,2.3122407
-Dr. Peter Heintzman,59.36195,18.057638
-Dr. Peter Heintzman,69.6811516,18.972565
-Dr. Pierre Stallforth,50.9102864,11.5742225
-Dr. Pontus Skoglund,51.5329987,-0.127396519708498
-Dr. Selina Brace,51.497041,-0.176519
-Dr. Viviane Slon,32.114663,34.8057366
-Jun. Prof. Cosimo Posth,48.526412,9.060097
-Prof. Anders Götherström,59.36195,18.057638
-Prof. Anne Stone,33.4545654,-112.070634
-Prof. Ben Krause-Kyora,54.3474038,10.1160511
-Prof. Carles Lalueza-Fox,41.3803282,2.1811476
-Prof. Cecil Lewis,35.2072425,-97.44436471
-Prof. Christina Warinner,51.32089,12.39478
-Prof. Eske Willerslev,55.6885176,12.5784967
-Prof. Gary Toranzo,18.404158,-66.04869171
-Prof. Greger Larson,51.7561653,-1.25301781
-Prof. Ian Barnes,51.497041,-0.176519
-Prof. Laura Epp,47.695236,9.193513
-Prof. Ludovic Orlando,43.5957794,1.4512546
-Prof. Mark Achtman,52.3761174,-1.54927271
-Prof. Nicola Segata,46.0695318,11.1515911
-Prof. Tom Gilbert,55.6885176,12.5784967
+of,Institution,Country,of
+Achtman,"Warwick,Warwick",United,Kingdom,https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/,"microbial-genomics,host-associated",52.3761174,-1.54927271
+Anders,,
+and,Médecine,Purpan,
+Anthropology,Claudio,Ottoni,University
+Anthropology,Courtney,Hofman,University
+Anthropology,Lewis,University,of
+Ben,Biology,,Christian-Albrechts-Universität
+Bos,Max-Planck-Institut,,
+Centre,Dr.,,
+Christiana,Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,58.3824332,26.7212148,
+CIBIO",Prof.,,
+D.,,
+Epp,Universität,,
+Eske,,
+für,,
+Genetics,Aviv,Israel,https://www.tau.ac.il/~viviane/,environmental,32.114663,34.8057366,
+Genomes,Assoc.,of,Denmark,Denmark,https://grenaud.github.io/group.html/,"microbial-genomics,environmental",55.787632,12.521014
+Genomics,Dr.,de,Investigación
+Geogenetics",Assis.,Institute,,Københavns
+Geogenetics",Assis.,Universitet",Denmark,https://globe.ku.dk/research/geogenetics/microbial-ecogenomics-group/,host-associated,55.6885176,12.5784967,
+Guschanski,University,,
+Heintzman,UiT,,
+Herbig,Max-Planck-Institut,,
+Lab,Dr.,Santa,Cruz",United
+Lab,Dr.,States,https://anthropology.uconn.edu/person/deborah-bolnick/,microbial-genomics,41.8110678,-72.25182451,
+Lalueza-Fox,"L'Institut,Pompeu,Fabra",Spain,https://www.ibe.upf-csic.es/lalueza,microbial-genomics,41.3803282,2.1811476
+M.,,
+Molecular,Dr.,de,México,Mexico,http://biologia.fciencias.unam.mx/biolcel/atb/index.htm,host-associated,19.324072,-99.179089
+MPRG,Dr.,Anthropologie,Germany,https://www.eva.mpg.de/genetics/ancient-environmental-genomics/,"anthropogenic,environmental",51.32089,12.39478,
+NHM,Dr.,London,United,Kingdom,https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/selina-brace.html,"host-associated,environmental",51.497041,-0.176519
+NHM,Prof.,London,United,Kingdom,https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html,"host-associated,environmental",51.497041,-0.176519
+of,,
+Palaeogenomics,Dr.,1,/
+Peter,,
+&,Planck,Institute
+Pontus,,
+Prof.,Tübingen,Germany,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/urgeschichte-naturwissenschaftliche-archaeologie/forschungsbereich/archaeo-and-palaeogenetik/,microbial-genomics,48.526412,9.060097,
+Prof.,Universitet",Denmark,https://globe.ku.dk/research/evogenomics/schroeder-group/,host-associated,55.6885176,12.5784967,
+Prof.,Universitet",Denmark,https://globe.ku.dk/research/geogenetics/sikora-group/,microbial-genomics,55.6885176,12.5784967,
+Raghavan,University,,
+Rascovan,Institut,,
+Reynolds,Baylor,,
+State,,
+Stone,Arizona,,
+Studies,Dr.,,
+Tom,,
+Toranzo,"Universidad,Recinto,de
+van,Institute,United,Kingdom,https://www.ucl.ac.uk/~ucbpvan/,microbial-genomics,51.5259081,-0.132691119708498
+Verena,,
+Warinner,Max-Planck-Institut,,

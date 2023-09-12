@@ -1,52 +1,53 @@
 Active,ID of Lab,Name of Lab,Name of PI,Name of Institution,Country of Institution,Webpage,Ancient Metagenomics Research Focus,Latitude,Longitude
-☑,EVA,Microbiome Sciences,Prof. Christina Warinner,Max-Planck-Institut für evolutionäre Anthropologie,Germany,http://christinawarinner.com/,host-associated,51.32089,12.39478
-☑,IPR,Microbial Paleogenomics,Dr. Nicolás Rascovan,Institut Pasteur,France,https://research.pasteur.fr/en/team/microbial-paleogenomics/,"host-associated,microbial-genomics",48.8421234,2.3122407
-☑,UEH,Guschanski Lab,Dr. Katerina Guschanski,University of Edinburgh,United Kingdom,https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab/guschanski-people/,host-associated,55.9458647,-3.188501
-☑,PSU,MicroARCH,Dr. Laura Weyrich,Penn State University,United States,https://microarchlab.github.io/,microbial-genomics,40.7995622,-77.85855941
-☑,UCO,GenSCAPE Lab,Dr. Maanasa Raghavan,University of Chicago,United States,https://www.genscape-lab.com/,microbial-genomics,41.7899568,-87.59736431
-☑,UTIG,aDNA lab UTIG,Dr. Christiana L. Scheib,"Tartu Ülikool, Genoomika Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,58.3824332,26.7212148
-☑,FCI,Crick Ancient Genomics,Dr. Pontus Skoglund,Francis Crick Institute,United Kingdom,www.skoglundlab.org,host-associated,51.5329987,-0.127396519708498
-☑,UCONN,UCONN Genomic Anthropology Lab,Dr. Deborah Bolnick,University of Connecticut,United States,https://anthropology.uconn.edu/person/deborah-bolnick/,microbial-genomics,41.8110678,-72.25182451
-☑,UNAM,Laboratorio de Antropología Molecular,Dr. Angélica González,Univesidad Nacional Autónoma de México,Mexico,http://biologia.fciencias.unam.mx/biolcel/atb/index.htm,host-associated,19.324072,-99.179089
+☑,AGES,"Archaeology, Genomics, Evolution and Societies",Prof. Ludovic Orlando,"Faculté de Médecine Purpan, Université Toulouse III",France,https://cagt.cnrs.fr/ages/,"microbial-genomics,host-associated",43.5957794,1.4512546
+☑,ASU,Stone Lab,Prof. Anne Stone,Arizona State University,USA,https://stone.lab.asu.edu/,microbial-genomics,33.4545654,-112.070634
+☑,BIOARCH,BioArCh,Dr. Nathan Wales,University of York, United Kingdom,https://www.york.ac.uk/archaeology/centres-facilities/bioarch/facilities/palaeogenomics/,host-associated,53.946347,-1.057853
+☑,BUY,Reynolds Lab,Dr. Austin Reynolds,Baylor University,United States,https://www.reynoldslab.org/,environmental,31.5502412,-97.11170831
+☑,CIBIO,"Computational Metagenomics Lab, CIBIO",Prof. Nicola Segata,Università Di Trento,Italy,http://segatalab.cibio.unitn.it/contacts.html,"host-associated,microbial-genomics",46.0695318,11.1515911
 ☑,CPG,Centre for Palaeogenetics,Prof. Anders Götherström,Stockholm University,Sweden,http://palaeogenetics.com/,"microbial-genomics,host-associated",59.36195,18.057638
 ☑,CPG,Centre for Palaeogenetics,Dr. Peter Heintzman,Stockholm University,Sweden,http://palaeogenetics.com/,environmental,59.36195,18.057638
+☑,CPG,Centre for Palaeogenetics,Dr. Tom van der Valk,Stockholm University,Sweden,http://palaeogenetics.com/,environmental,59.36195,18.057638
+☑,EGI,"Schroeder Group, EvoGenomics",Assoc. Prof. Hannes Schroeder,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/evogenomics/schroeder-group/,host-associated,55.6885176,12.5784967
+☑,EGI,"Gilbert Group, EvoGenomics",Prof. Tom Gilbert,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/evogenomics/gilbert-group/,microbial-genomics,55.6885176,12.5784967
+☑,EVA,Microbiome Sciences,Prof. Christina Warinner,Max-Planck-Institut für evolutionäre Anthropologie,Germany,http://christinawarinner.com/,host-associated,51.32089,12.39478
 ☑,EVA,Ancient Pathogenomics,Dr. Alexander Herbig,Max-Planck-Institut für evolutionäre Anthropologie,Germany,https://www.eva.mpg.de/index/,host-associated,51.32089,12.39478
-☑,UCSC,UCSC Human Paleogenomics Lab,Dr. Lars Fehren-Schmitz,"University of California, Santa Cruz",United States,https://ucschpg.wordpress.com/,microbial-genomics,36.9893992,-122.05686
-☑,MPIIB,Evolutionary Pathogenomics,Dr. Felix M. Key,Max-Planck-Institut für Infektionsbiologie,Germany,https://www.mpiib-berlin.mpg.de/2003543/key-lab,microbial-genomics,52.5264889,13.3770731
-☑,HKI,Paleobiotechnology,Dr. Pierre Stallforth,Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie Hans-Knöll-Institut,Germany,https://stallforth-lab.de/,host-associated,50.9102864,11.5742225
-☑,UCL,Microbial Genomics,Dr. Lucy van Dorp,University College London Genetics Institute,United Kingdom,https://www.ucl.ac.uk/~ucbpvan/,microbial-genomics,51.5259081,-0.132691119708498
-☑,MMU,McMaster Ancient DNA Centre,Dr. Hendrik Poinar,McMaster University,Canada,https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre,microbial-genomics,43.2622279,-79.91787641
 ☑,EVA,Molecular Palaeopathology,Dr. Kirsten Bos,Max-Planck-Institut für evolutionäre Anthropologie,Germany,https://kirstenbos.ca/,microbial-genomics,51.32089,12.39478
-☑,UZH,Paleogenetics Group,Assoc. Prof. Verena Schuenemann,Universität Zürich,Switzerland,https://www.iem.uzh.ch/en/research/paleogenetics_group_sch%C3%BCnemann.html,microbial-genomics,47.375671,8.5523301
-☑,UOD,Palaeobarn,Prof. Greger Larson,University of Oxford,United Kingdom,https://www.palaeobarn.com/,microbial-genomics,51.7561653,-1.25301781
-☑,ASU,Stone Lab,Prof. Anne Stone,Arizona State University,USA,https://stone.lab.asu.edu/,microbial-genomics,33.4545654,-112.070634
-☑,AGES,"Archaeology, Genomics, Evolution and Societies",Prof. Ludovic Orlando,"Faculté de Médecine Purpan, Université Toulouse III",France,https://cagt.cnrs.fr/ages/,"microbial-genomics,host-associated",43.5957794,1.4512546
-☑,IMS,Institute for Mummy Studies,Dr. Albert Zink,EURAC,Italy,https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies,"microbial-genomics,host-associated",46.4959135,11.3486916
-☑,UPR,Toranzo Lab,Prof. Gary Toranzo,"Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",Puerto Rico,http://brtc.uprrp.edu/marc/index.php/menu/gary-toranzos-ph-d/,host-associated,18.404158,-66.04869171
-☑,CIBIO,"Computational Metagenomics Lab, CIBIO",Prof. Nicola Segata,Università Di Trento,Italy,http://segatalab.cibio.unitn.it/contacts.html,"host-associated,microbial-genomics",46.0695318,11.1515911
-☑,NTNU,Holomuseomics,Assoc. Prof. Michael D. Martin,NTNU Vitenskapsmuseet,Norway,https://www.ntnu.edu/museum/holomuseomics#/view/about,host-associated,63.4304107,10.3877934
-☑,LMAMR,Laboratories of Molecular Anthropology and Microbiome Research,Prof. Cecil Lewis,University of Oklahoma,USA,https://lmamr.org/,host-associated,35.2072425,-97.44436471
-☑,LMAMR,Laboratories of Molecular Anthropology and Microbiome Research,Assis. Prof. Courtney Hofman,University of Oklahoma,USA,https://lmamr.org/,host-associated,35.2072425,-97.44436471
-☑,RTV,Centre of Moleucular Anthropology for Ancient DNA studies,Dr. Claudio Ottoni,University of Rome Tor Vergata,Italy,https://web.uniroma2.it/en,host-associated,41.854989,12.6300251
-☑,BUY,Reynolds Lab,Dr. Austin Reynolds,Baylor University,United States,https://www.reynoldslab.org/,environmental,31.5502412,-97.11170831
-☑,LIIGH,Population & Evolutionary Genomics,Dr. Maria Ávila Arcos,"Laboratorio Internacional de Investigación sobre el Genoma Humano, Univesidad Nacional Autónoma de México",Mexico,https://liigh.unam.mx/mavila/,"host-associated,microbial-genomics,environmental",20.700131,-100.446854
+☑,EVA,Ancient Environmental Genomics MPRG,Dr. Benjamin Vernot,Max-Planck-Institut für evolutionäre Anthropologie,Germany,https://www.eva.mpg.de/genetics/ancient-environmental-genomics/,"anthropogenic,environmental",51.32089,12.39478
+☑,FCI,Crick Ancient Genomics,Dr. Pontus Skoglund,Francis Crick Institute,United Kingdom,www.skoglundlab.org,host-associated,51.5329987,-0.127396519708498
 ☑,GGI,"Sikora Group, Geogenetics",Assoc. Prof. Martin Sikora,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/geogenetics/sikora-group/,microbial-genomics,55.6885176,12.5784967
 ☑,GGI,"Paleo-Environmental Genomics Group, Geogenetics",Assis. Prof. Mikkel Winther Pedersen,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/geogenetics/paleo-environmental-genomics-group/,environmental,55.6885176,12.5784967
 ☑,GGI,"Microbial EcoGenomics Group, Geogenetics",Assis. Antonio Fernandez-Guerra,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/geogenetics/microbial-ecogenomics-group/,host-associated,55.6885176,12.5784967
 ☑,GGI,"Willerslev Group, Geogenetics",Prof. Eske Willerslev,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/geogenetics/willerslev-group/,microbial-genomics,55.6885176,12.5784967
-☑,EGI,"Schroeder Group, EvoGenomics",Assoc. Prof. Hannes Schroeder,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/evogenomics/schroeder-group/,host-associated,55.6885176,12.5784967
-☑,EGI,"Gilbert Group, EvoGenomics",Prof. Tom Gilbert,"GLOBE Institute, Københavns Universitet",Denmark,https://globe.ku.dk/research/evogenomics/gilbert-group/,microbial-genomics,55.6885176,12.5784967
-☑,TAU,Historical and Prehistorical Genetics Laboratory,Dr. Viviane Slon,Universitat Tel Aviv,Israel,https://www.tau.ac.il/~viviane/,environmental,32.114663,34.8057366
+☑,HKI,Paleobiotechnology,Dr. Pierre Stallforth,Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie Hans-Knöll-Institut,Germany,https://stallforth-lab.de/,host-associated,50.9102864,11.5742225
 ☑,IKMB,Ancient DNA Research,Prof. Ben Krause-Kyora,"Institute of Clinical Molecular Biology, Christian-Albrechts-Universität zu Kiel",Germany,https://www.ikmb.uni-kiel.de/research/junior-research-groups/ancient-dna-research,microbial-genomics,54.3474038,10.1160511
-☑,UPF,Paleogenomics Lab,Prof. Carles Lalueza-Fox,"L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra",Spain,https://www.ibe.upf-csic.es/lalueza,microbial-genomics,41.3803282,2.1811476
-☑,URS,Ecobio Lab Team Palaeogenomics,Dr. Morgane Ollivier,Unviersity of Rennes 1 / CNRS,France,https://ecobio.univ-rennes1.fr/evolution-des-genomes-traits-dhistoire-de-vie-et-adaptation,"host-associated,microbial-genomics,environmental",48.118107,-1.638029
+☑,IMS,Institute for Mummy Studies,Dr. Albert Zink,EURAC,Italy,https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies,"microbial-genomics,host-associated",46.4959135,11.3486916
 ☑,INA,Archaeo- and Palaeogenetics,Jun. Prof. Cosimo Posth,Eberhard Karls Universität Tübingen,Germany,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/urgeschichte-naturwissenschaftliche-archaeologie/forschungsbereich/archaeo-and-palaeogenetik/,microbial-genomics,48.526412,9.060097
-☑,TIDE,"Transmission, Infection, Diversification & Evolution Group",Dr Denise Kühnert,Max Planck Institute for the Science of Human History,Germany,https://www.shh.mpg.de/tide,microbial-genomics,50.917755,11.578511
+☑,IPR,Microbial Paleogenomics,Dr. Nicolás Rascovan,Institut Pasteur,France,https://research.pasteur.fr/en/team/microbial-paleogenomics/,"host-associated,microbial-genomics",48.8421234,2.3122407
+☑,LIIGH,Population & Evolutionary Genomics,Dr. Maria Ávila Arcos,"Laboratorio Internacional de Investigación sobre el Genoma Humano, Univesidad Nacional Autónoma de México",Mexico,https://liigh.unam.mx/mavila/,"host-associated,microbial-genomics,environmental",20.700131,-100.446854
+☑,LMAMR,Laboratories of Molecular Anthropology and Microbiome Research,Prof. Cecil Lewis,University of Oklahoma,USA,https://lmamr.org/,host-associated,35.2072425,-97.44436471
+☑,LMAMR,Laboratories of Molecular Anthropology and Microbiome Research,Assis. Prof. Courtney Hofman,University of Oklahoma,USA,https://lmamr.org/,host-associated,35.2072425,-97.44436471
+☑,MAAG,Modern and Ancient Genomes,Assoc. Prof. Gabriel Renaud,Technical University of Denmark,Denmark,https://grenaud.github.io/group.html/,"microbial-genomics,environmental",55.787632,12.521014
+☑,MMU,McMaster Ancient DNA Centre,Dr. Hendrik Poinar,McMaster University,Canada,https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre,microbial-genomics,43.2622279,-79.91787641
+☑,MPIIB,Evolutionary Pathogenomics,Dr. Felix M. Key,Max-Planck-Institut für Infektionsbiologie,Germany,https://www.mpiib-berlin.mpg.de/2003543/key-lab,microbial-genomics,52.5264889,13.3770731
 ☑,NHML,Ancient DNA Lab NHM,Prof. Ian Barnes,Natural History Museum London,United Kingdom,https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html,"host-associated,environmental",51.497041,-0.176519
 ☑,NHML,Ancient DNA Lab NHM,Dr. Selina Brace,Natural History Museum London,United Kingdom,https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/selina-brace.html,"host-associated,environmental",51.497041,-0.176519
-☑,BIOARCH,BioArCh,Dr. Nathan Wales,University of York," United Kingdom",https://www.york.ac.uk/archaeology/centres-facilities/bioarch/facilities/palaeogenomics/,host-associated,53.946347,-1.057853
-☑,EVA,Ancient Environmental Genomics MPRG,Dr. Benjamin Vernot,Max-Planck-Institut für evolutionäre Anthropologie,Germany,https://www.eva.mpg.de/genetics/ancient-environmental-genomics/,"anthropogenic,environmental",51.32089,12.39478
-☑,UKON,Environmental Genomics,Prof. Laura Epp,Universität Konstanz,Germany,https://www.limnologie.uni-konstanz.de/en/ag-epp-environmental-genomics/,environmental,47.695236,9.193513
-☑,MAAG,Modern and Ancient Genomes,Assoc. Prof. Gabriel Renaud,Technical University of Denmark,Denmark,https://grenaud.github.io/group.html/,"microbial-genomics,environmental",55.787632,12.521014
+☑,NTNU,Holomuseomics,Assoc. Prof. Michael D. Martin,NTNU Vitenskapsmuseet,Norway,https://www.ntnu.edu/museum/holomuseomics#/view/about,host-associated,63.4304107,10.3877934
+☑,PSU,MicroARCH,Dr. Laura Weyrich,Penn State University,United States,https://microarchlab.github.io/,microbial-genomics,40.7995622,-77.85855941
+☑,RTV,Centre of Moleucular Anthropology for Ancient DNA studies,Dr. Claudio Ottoni,University of Rome Tor Vergata,Italy,https://web.uniroma2.it/en,host-associated,41.854989,12.6300251
+☑,TAU,Historical and Prehistorical Genetics Laboratory,Dr. Viviane Slon,Universitat Tel Aviv,Israel,https://www.tau.ac.il/~viviane/,environmental,32.114663,34.8057366
+☑,TIDE,"Transmission, Infection, Diversification & Evolution Group",Dr Denise Kühnert,Max Planck Institute for the Science of Human History,Germany,https://www.shh.mpg.de/tide,microbial-genomics,50.917755,11.578511
+☑,UCL,Microbial Genomics,Dr. Lucy van Dorp,University College London Genetics Institute,United Kingdom,https://www.ucl.ac.uk/~ucbpvan/,microbial-genomics,51.5259081,-0.132691119708498
+☑,UCO,GenSCAPE Lab,Dr. Maanasa Raghavan,University of Chicago,United States,https://www.genscape-lab.com/,microbial-genomics,41.7899568,-87.59736431
+☑,UCONN,UCONN Genomic Anthropology Lab,Dr. Deborah Bolnick,University of Connecticut,United States,https://anthropology.uconn.edu/person/deborah-bolnick/,microbial-genomics,41.8110678,-72.25182451
+☑,UCSC,UCSC Human Paleogenomics Lab,Dr. Lars Fehren-Schmitz,"University of California, Santa Cruz",United States,https://ucschpg.wordpress.com/,microbial-genomics,36.9893992,-122.05686
+☑,UEH,Guschanski Lab,Dr. Katerina Guschanski,University of Edinburgh,United Kingdom,https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab/guschanski-people/,host-associated,55.9458647,-3.188501
 🚚,UIT,Heintzman Lab,Dr. Peter Heintzman,UiT - Norges arktiske universitet,Norway,https://sites.google.com/view/peteheintzman/,environmental,69.6811516,18.972565
+☑,UKON,Environmental Genomics,Prof. Laura Epp,Universität Konstanz,Germany,https://www.limnologie.uni-konstanz.de/en/ag-epp-environmental-genomics/,environmental,47.695236,9.193513
+☑,UNAM,Laboratorio de Antropología Molecular,Dr. Angélica González,Univesidad Nacional Autónoma de México,Mexico,http://biologia.fciencias.unam.mx/biolcel/atb/index.htm,host-associated,19.324072,-99.179089
+☑,UOD,Palaeobarn,Prof. Greger Larson,University of Oxford,United Kingdom,https://www.palaeobarn.com/,microbial-genomics,51.7561653,-1.25301781
+☑,UPF,Paleogenomics Lab,Prof. Carles Lalueza-Fox,"L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra",Spain,https://www.ibe.upf-csic.es/lalueza,microbial-genomics,41.3803282,2.1811476
+☑,UPR,Toranzo Lab,Prof. Gary Toranzo,"Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",Puerto Rico,http://brtc.uprrp.edu/marc/index.php/menu/gary-toranzos-ph-d/,host-associated,18.404158,-66.04869171
+☑,URS,Ecobio Lab Team Palaeogenomics,Dr. Morgane Ollivier,Unviersity of Rennes 1 / CNRS,France,https://ecobio.univ-rennes1.fr/evolution-des-genomes-traits-dhistoire-de-vie-et-adaptation,"host-associated,microbial-genomics,environmental",48.118107,-1.638029
+☑,UTIG,aDNA lab UTIG,Dr. Christiana L. Scheib,"Tartu Ülikool, Genoomika Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,58.3824332,26.7212148
 ❎,UWK,Achtman Lab,Prof. Mark Achtman,"Warwick Medical School, University of Warwick",United Kingdom,https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/,"microbial-genomics,host-associated",52.3761174,-1.54927271
+☑,UZH,Paleogenetics Group,Assoc. Prof. Verena Schuenemann,Universität Zürich,Switzerland,https://www.iem.uzh.ch/en/research/paleogenetics_group_sch%C3%BCnemann.html,microbial-genomics,47.375671,8.5523301

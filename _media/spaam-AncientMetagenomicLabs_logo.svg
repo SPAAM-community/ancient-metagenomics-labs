@@ -4,7 +4,7 @@
    inkscape:export-xdpi="1200"
    inkscape:export-filename="spaam-AncientMetagenomicLabs_logo.png"
    sodipodi:docname="spaam-AncientMetagenomicLabs_logo.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051551+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    id="svg8"
    version="1.1"
    viewBox="0 0 5.2916664 5.2916662"
@@ -35,9 +35,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="33.799515"
-     inkscape:cx="11.236778"
-     inkscape:zoom="5.6065894"
+     inkscape:cy="8.8288969"
+     inkscape:cx="28.448668"
+     inkscape:zoom="11.213179"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -52,7 +52,11 @@
        originy="-105.83337"
        originx="-211.66658"
        id="grid833"
-       type="xygrid" /></sodipodi:namedview><metadata
+       type="xygrid"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" /></sodipodi:namedview><metadata
      id="metadata5"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><g
