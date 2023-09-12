@@ -1,51 +1,1065 @@
-of,Institution,Country,of
-Achtman,"Warwick,Warwick",United,Kingdom,https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/,"microbial-genomics,host-associated",52.3761174,-1.54927271
-Anders,,
-and,Médecine,Purpan,
-Anthropology,Claudio,Ottoni,University
-Anthropology,Courtney,Hofman,University
-Anthropology,Lewis,University,of
-Ben,Biology,,Christian-Albrechts-Universität
-Bos,Max-Planck-Institut,,
-Centre,Dr.,,
-Christiana,Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,58.3824332,26.7212148,
-CIBIO",Prof.,,
-D.,,
-Epp,Universität,,
-Eske,,
-für,,
-Genetics,Aviv,Israel,https://www.tau.ac.il/~viviane/,environmental,32.114663,34.8057366,
-Genomes,Assoc.,of,Denmark,Denmark,https://grenaud.github.io/group.html/,"microbial-genomics,environmental",55.787632,12.521014
-Genomics,Dr.,de,Investigación
-Geogenetics",Assis.,Institute,,Københavns
-Geogenetics",Assis.,Universitet",Denmark,https://globe.ku.dk/research/geogenetics/microbial-ecogenomics-group/,host-associated,55.6885176,12.5784967,
-Guschanski,University,,
-Heintzman,UiT,,
-Herbig,Max-Planck-Institut,,
-Lab,Dr.,Santa,Cruz",United
-Lab,Dr.,States,https://anthropology.uconn.edu/person/deborah-bolnick/,microbial-genomics,41.8110678,-72.25182451,
-Lalueza-Fox,"L'Institut,Pompeu,Fabra",Spain,https://www.ibe.upf-csic.es/lalueza,microbial-genomics,41.3803282,2.1811476
-M.,,
-Molecular,Dr.,de,México,Mexico,http://biologia.fciencias.unam.mx/biolcel/atb/index.htm,host-associated,19.324072,-99.179089
-MPRG,Dr.,Anthropologie,Germany,https://www.eva.mpg.de/genetics/ancient-environmental-genomics/,"anthropogenic,environmental",51.32089,12.39478,
-NHM,Dr.,London,United,Kingdom,https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/selina-brace.html,"host-associated,environmental",51.497041,-0.176519
-NHM,Prof.,London,United,Kingdom,https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html,"host-associated,environmental",51.497041,-0.176519
-of,,
-Palaeogenomics,Dr.,1,/
-Peter,,
-&,Planck,Institute
-Pontus,,
-Prof.,Tübingen,Germany,https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/urgeschichte-naturwissenschaftliche-archaeologie/forschungsbereich/archaeo-and-palaeogenetik/,microbial-genomics,48.526412,9.060097,
-Prof.,Universitet",Denmark,https://globe.ku.dk/research/evogenomics/schroeder-group/,host-associated,55.6885176,12.5784967,
-Prof.,Universitet",Denmark,https://globe.ku.dk/research/geogenetics/sikora-group/,microbial-genomics,55.6885176,12.5784967,
-Raghavan,University,,
-Rascovan,Institut,,
-Reynolds,Baylor,,
-State,,
-Stone,Arizona,,
-Studies,Dr.,,
-Tom,,
-Toranzo,"Universidad,Recinto,de
-van,Institute,United,Kingdom,https://www.ucl.ac.uk/~ucbpvan/,microbial-genomics,51.5259081,-0.132691119708498
-Verena,,
-Warinner,Max-Planck-Institut,,
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "AGES",
+        "Name of Lab": "Archaeology, Genomics, Evolution and Societies",
+        "Name of PI": "Prof. Ludovic Orlando",
+        "Name of Institution": "Faculté de Médecine Purpan, Université Toulouse III",
+        "Country of Institution": "France",
+        "Webpage": "https://cagt.cnrs.fr/ages/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics,host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4512546,
+          43.5957794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "ASU",
+        "Name of Lab": "Stone Lab",
+        "Name of PI": "Prof. Anne Stone",
+        "Name of Institution": "Arizona State University",
+        "Country of Institution": "USA",
+        "Webpage": "https://stone.lab.asu.edu/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.070634,
+          33.4545654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "AWI",
+        "Name of Lab": "Polar Terrestrial Environmental Systems (Paleogenomics Lab)",
+        "Name of PI": "Dr. Kathleen Stoof-Leichsenring",
+        "Name of Institution": "Alfred-Wegener-Institut",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/labs-and-methods/paleogenetic-lab.html",
+        "Ancient Metagenomics Research Focus": "envi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0658,
+          52.381111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "BIOARCH",
+        "Name of Lab": "BioArCh",
+        "Name of PI": "Dr. Nathan Wales",
+        "Name of Institution": "University of York",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "https://www.york.ac.uk/archaeology/centres-facilities/bioarch/facilities/palaeogenomics/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.057853,
+          53.946347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "BUY",
+        "Name of Lab": "Reynolds Lab",
+        "Name of PI": "Dr. Austin Reynolds",
+        "Name of Institution": "Baylor University",
+        "Country of Institution": "United States",
+        "Webpage": "https://www.reynoldslab.org/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.11170831,
+          31.5502412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "CIBIO",
+        "Name of Lab": "Computational Metagenomics Lab, CIBIO",
+        "Name of PI": "Prof. Nicola Segata",
+        "Name of Institution": "Università Di Trento",
+        "Country of Institution": "Italy",
+        "Webpage": "http://segatalab.cibio.unitn.it/contacts.html",
+        "Ancient Metagenomics Research Focus": "host-associated,microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1515911,
+          46.0695318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "CPG",
+        "Name of Lab": "Centre for Palaeogenetics",
+        "Name of PI": "Prof. Anders Götherström",
+        "Name of Institution": "Stockholm University",
+        "Country of Institution": "Sweden",
+        "Webpage": "http://palaeogenetics.com/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics,host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057638,
+          59.36195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "CPG",
+        "Name of Lab": "Centre for Palaeogenetics",
+        "Name of PI": "Dr. Peter Heintzman",
+        "Name of Institution": "Stockholm University",
+        "Country of Institution": "Sweden",
+        "Webpage": "http://palaeogenetics.com/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057638,
+          59.36195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "CPG",
+        "Name of Lab": "Centre for Palaeogenetics",
+        "Name of PI": "Dr. Tom van der Valk",
+        "Name of Institution": "Stockholm University",
+        "Country of Institution": "Sweden",
+        "Webpage": "http://palaeogenetics.com/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.057638,
+          59.36195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "EGI",
+        "Name of Lab": "Schroeder Group, EvoGenomics",
+        "Name of PI": "Assoc. Prof. Hannes Schroeder",
+        "Name of Institution": "GLOBE Institute, Københavns Universitet",
+        "Country of Institution": "Denmark",
+        "Webpage": "https://globe.ku.dk/research/evogenomics/schroeder-group/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5784967,
+          55.6885176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "EGI",
+        "Name of Lab": "Gilbert Group, EvoGenomics",
+        "Name of PI": "Prof. Tom Gilbert",
+        "Name of Institution": "GLOBE Institute, Københavns Universitet",
+        "Country of Institution": "Denmark",
+        "Webpage": "https://globe.ku.dk/research/evogenomics/gilbert-group/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5784967,
+          55.6885176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "EVA",
+        "Name of Lab": "Microbiome Sciences",
+        "Name of PI": "Prof. Christina Warinner",
+        "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie",
+        "Country of Institution": "Germany",
+        "Webpage": "http://christinawarinner.com/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39478,
+          51.32089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "EVA",
+        "Name of Lab": "Ancient Pathogenomics",
+        "Name of PI": "Dr. Alexander Herbig",
+        "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.eva.mpg.de/index/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39478,
+          51.32089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "EVA",
+        "Name of Lab": "Molecular Palaeopathology",
+        "Name of PI": "Dr. Kirsten Bos",
+        "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie",
+        "Country of Institution": "Germany",
+        "Webpage": "https://kirstenbos.ca/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39478,
+          51.32089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "EVA",
+        "Name of Lab": "Ancient Environmental Genomics MPRG",
+        "Name of PI": "Dr. Benjamin Vernot",
+        "Name of Institution": "Max-Planck-Institut für evolutionäre Anthropologie",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.eva.mpg.de/genetics/ancient-environmental-genomics/",
+        "Ancient Metagenomics Research Focus": "anthropogenic,environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.39478,
+          51.32089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "FCI",
+        "Name of Lab": "Crick Ancient Genomics",
+        "Name of PI": "Dr. Pontus Skoglund",
+        "Name of Institution": "Francis Crick Institute",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "www.skoglundlab.org",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127396519708498,
+          51.5329987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "GGI",
+        "Name of Lab": "Sikora Group, Geogenetics",
+        "Name of PI": "Assoc. Prof. Martin Sikora",
+        "Name of Institution": "GLOBE Institute, Københavns Universitet",
+        "Country of Institution": "Denmark",
+        "Webpage": "https://globe.ku.dk/research/geogenetics/sikora-group/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5784967,
+          55.6885176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "GGI",
+        "Name of Lab": "Paleo-Environmental Genomics Group, Geogenetics",
+        "Name of PI": "Assis. Prof. Mikkel Winther Pedersen",
+        "Name of Institution": "GLOBE Institute, Københavns Universitet",
+        "Country of Institution": "Denmark",
+        "Webpage": "https://globe.ku.dk/research/geogenetics/paleo-environmental-genomics-group/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5784967,
+          55.6885176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "GGI",
+        "Name of Lab": "Microbial EcoGenomics Group, Geogenetics",
+        "Name of PI": "Assis. Antonio Fernandez-Guerra",
+        "Name of Institution": "GLOBE Institute, Københavns Universitet",
+        "Country of Institution": "Denmark",
+        "Webpage": "https://globe.ku.dk/research/geogenetics/microbial-ecogenomics-group/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5784967,
+          55.6885176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "GGI",
+        "Name of Lab": "Willerslev Group, Geogenetics",
+        "Name of PI": "Prof. Eske Willerslev",
+        "Name of Institution": "GLOBE Institute, Københavns Universitet",
+        "Country of Institution": "Denmark",
+        "Webpage": "https://globe.ku.dk/research/geogenetics/willerslev-group/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5784967,
+          55.6885176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "HKI",
+        "Name of Lab": "Paleobiotechnology",
+        "Name of PI": "Dr. Pierre Stallforth",
+        "Name of Institution": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie Hans-Knöll-Institut",
+        "Country of Institution": "Germany",
+        "Webpage": "https://stallforth-lab.de/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5742225,
+          50.9102864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "IKMB",
+        "Name of Lab": "Ancient DNA Research",
+        "Name of PI": "Prof. Ben Krause-Kyora",
+        "Name of Institution": "Institute of Clinical Molecular Biology, Christian-Albrechts-Universität zu Kiel",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.ikmb.uni-kiel.de/research/junior-research-groups/ancient-dna-research",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1160511,
+          54.3474038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "IMS",
+        "Name of Lab": "Institute for Mummy Studies",
+        "Name of PI": "Dr. Albert Zink",
+        "Name of Institution": "EURAC",
+        "Country of Institution": "Italy",
+        "Webpage": "https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies",
+        "Ancient Metagenomics Research Focus": "microbial-genomics,host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3486916,
+          46.4959135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "INA",
+        "Name of Lab": "Archaeo- and Palaeogenetics",
+        "Name of PI": "Jun. Prof. Cosimo Posth",
+        "Name of Institution": "Eberhard Karls Universität Tübingen",
+        "Country of Institution": "Germany",
+        "Webpage": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/urgeschichte-naturwissenschaftliche-archaeologie/forschungsbereich/archaeo-and-palaeogenetik/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.060097,
+          48.526412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "IPR",
+        "Name of Lab": "Microbial Paleogenomics",
+        "Name of PI": "Dr. Nicolás Rascovan",
+        "Name of Institution": "Institut Pasteur",
+        "Country of Institution": "France",
+        "Webpage": "https://research.pasteur.fr/en/team/microbial-paleogenomics/",
+        "Ancient Metagenomics Research Focus": "host-associated,microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3122407,
+          48.8421234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "LIIGH",
+        "Name of Lab": "Population & Evolutionary Genomics",
+        "Name of PI": "Dr. Maria Ávila Arcos",
+        "Name of Institution": "Laboratorio Internacional de Investigación sobre el Genoma Humano, Univesidad Nacional Autónoma de México",
+        "Country of Institution": "Mexico",
+        "Webpage": "https://liigh.unam.mx/mavila/",
+        "Ancient Metagenomics Research Focus": "host-associated,microbial-genomics,environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.446854,
+          20.700131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "LMAMR",
+        "Name of Lab": "Laboratories of Molecular Anthropology and Microbiome Research",
+        "Name of PI": "Prof. Cecil Lewis",
+        "Name of Institution": "University of Oklahoma",
+        "Country of Institution": "USA",
+        "Webpage": "https://lmamr.org/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44436471,
+          35.2072425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "LMAMR",
+        "Name of Lab": "Laboratories of Molecular Anthropology and Microbiome Research",
+        "Name of PI": "Assis. Prof. Courtney Hofman",
+        "Name of Institution": "University of Oklahoma",
+        "Country of Institution": "USA",
+        "Webpage": "https://lmamr.org/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44436471,
+          35.2072425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "MAAG",
+        "Name of Lab": "Modern and Ancient Genomes",
+        "Name of PI": "Assoc. Prof. Gabriel Renaud",
+        "Name of Institution": "Technical University of Denmark",
+        "Country of Institution": "Denmark",
+        "Webpage": "https://grenaud.github.io/group.html/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics,environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.521014,
+          55.787632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "MMU",
+        "Name of Lab": "McMaster Ancient DNA Centre",
+        "Name of PI": "Dr. Hendrik Poinar",
+        "Name of Institution": "McMaster University",
+        "Country of Institution": "Canada",
+        "Webpage": "https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91787641,
+          43.2622279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "MPIIB",
+        "Name of Lab": "Evolutionary Pathogenomics",
+        "Name of PI": "Dr. Felix M. Key",
+        "Name of Institution": "Max-Planck-Institut für Infektionsbiologie",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.mpiib-berlin.mpg.de/2003543/key-lab",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3770731,
+          52.5264889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "NHML",
+        "Name of Lab": "Ancient DNA Lab NHM",
+        "Name of PI": "Prof. Ian Barnes",
+        "Name of Institution": "Natural History Museum London",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html",
+        "Ancient Metagenomics Research Focus": "host-associated,environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.176519,
+          51.497041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "NHML",
+        "Name of Lab": "Ancient DNA Lab NHM",
+        "Name of PI": "Dr. Selina Brace",
+        "Name of Institution": "Natural History Museum London",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/selina-brace.html",
+        "Ancient Metagenomics Research Focus": "host-associated,environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.176519,
+          51.497041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "NTNU",
+        "Name of Lab": "Holomuseomics",
+        "Name of PI": "Assoc. Prof. Michael D. Martin",
+        "Name of Institution": "NTNU Vitenskapsmuseet",
+        "Country of Institution": "Norway",
+        "Webpage": "https://www.ntnu.edu/museum/holomuseomics#/view/about",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3877934,
+          63.4304107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "PSU",
+        "Name of Lab": "MicroARCH",
+        "Name of PI": "Dr. Laura Weyrich",
+        "Name of Institution": "Penn State University",
+        "Country of Institution": "United States",
+        "Webpage": "https://microarchlab.github.io/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85855941,
+          40.7995622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "RTV",
+        "Name of Lab": "Centre of Moleucular Anthropology for Ancient DNA studies",
+        "Name of PI": "Dr. Claudio Ottoni",
+        "Name of Institution": "University of Rome Tor Vergata",
+        "Country of Institution": "Italy",
+        "Webpage": "https://web.uniroma2.it/en",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6300251,
+          41.854989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "TAU",
+        "Name of Lab": "Historical and Prehistorical Genetics Laboratory",
+        "Name of PI": "Dr. Viviane Slon",
+        "Name of Institution": "Universitat Tel Aviv",
+        "Country of Institution": "Israel",
+        "Webpage": "https://www.tau.ac.il/~viviane/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8057366,
+          32.114663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "TIDE",
+        "Name of Lab": "Transmission, Infection, Diversification & Evolution Group",
+        "Name of PI": "Dr Denise Kühnert",
+        "Name of Institution": "Max Planck Institute for the Science of Human History",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.shh.mpg.de/tide",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578511,
+          50.917755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UCL",
+        "Name of Lab": "Microbial Genomics",
+        "Name of PI": "Dr. Lucy van Dorp",
+        "Name of Institution": "University College London Genetics Institute",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "https://www.ucl.ac.uk/~ucbpvan/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.132691119708498,
+          51.5259081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UCO",
+        "Name of Lab": "GenSCAPE Lab",
+        "Name of PI": "Dr. Maanasa Raghavan",
+        "Name of Institution": "University of Chicago",
+        "Country of Institution": "United States",
+        "Webpage": "https://www.genscape-lab.com/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59736431,
+          41.7899568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UCSC",
+        "Name of Lab": "UCSC Human Paleogenomics Lab",
+        "Name of PI": "Dr. Lars Fehren-Schmitz",
+        "Name of Institution": "University of California, Santa Cruz",
+        "Country of Institution": "United States",
+        "Webpage": "https://ucschpg.wordpress.com/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.05686,
+          36.9893992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UEH",
+        "Name of Lab": "Guschanski Lab",
+        "Name of PI": "Dr. Katerina Guschanski",
+        "Name of Institution": "University of Edinburgh",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "https://www.ieg.uu.se/animal-ecology/Research+groups/guschanski-lab/guschanski-people/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188501,
+          55.9458647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UKON",
+        "Name of Lab": "Environmental Genomics",
+        "Name of PI": "Prof. Laura Epp",
+        "Name of Institution": "Universität Konstanz",
+        "Country of Institution": "Germany",
+        "Webpage": "https://www.limnologie.uni-konstanz.de/en/ag-epp-environmental-genomics/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.193513,
+          47.695236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UNAM",
+        "Name of Lab": "Laboratorio de Antropología Molecular",
+        "Name of PI": "Dr. Angélica González",
+        "Name of Institution": "Univesidad Nacional Autónoma de México",
+        "Country of Institution": "Mexico",
+        "Webpage": "http://biologia.fciencias.unam.mx/biolcel/atb/index.htm",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.179089,
+          19.324072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UOD",
+        "Name of Lab": "Palaeobarn",
+        "Name of PI": "Prof. Greger Larson",
+        "Name of Institution": "University of Oxford",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "https://www.palaeobarn.com/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25301781,
+          51.7561653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UPF",
+        "Name of Lab": "Paleogenomics Lab",
+        "Name of PI": "Prof. Carles Lalueza-Fox",
+        "Name of Institution": "L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra",
+        "Country of Institution": "Spain",
+        "Webpage": "https://www.ibe.upf-csic.es/lalueza",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1811476,
+          41.3803282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UPR",
+        "Name of Lab": "Toranzo Lab",
+        "Name of PI": "Prof. Gary Toranzo",
+        "Name of Institution": "Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",
+        "Country of Institution": "Puerto Rico",
+        "Webpage": "http://brtc.uprrp.edu/marc/index.php/menu/gary-toranzos-ph-d/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.04869171,
+          18.404158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "URS",
+        "Name of Lab": "Ecobio Lab Team Palaeogenomics",
+        "Name of PI": "Dr. Morgane Ollivier",
+        "Name of Institution": "Unviersity of Rennes 1 / CNRS",
+        "Country of Institution": "France",
+        "Webpage": "https://ecobio.univ-rennes1.fr/evolution-des-genomes-traits-dhistoire-de-vie-et-adaptation",
+        "Ancient Metagenomics Research Focus": "host-associated,microbial-genomics,environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.638029,
+          48.118107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UTIG",
+        "Name of Lab": "aDNA lab UTIG",
+        "Name of PI": "Dr. Christiana L. Scheib",
+        "Name of Institution": "Tartu Ülikool, Genoomika Instituut",
+        "Country of Institution": "Estonia",
+        "Webpage": "https://genomics.ut.ee/en/research/estonian-biocentre",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7212148,
+          58.3824332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "UZH",
+        "Name of Lab": "Paleogenetics Group",
+        "Name of PI": "Assoc. Prof. Verena Schuenemann",
+        "Name of Institution": "Universität Zürich",
+        "Country of Institution": "Switzerland",
+        "Webpage": "https://www.iem.uzh.ch/en/research/paleogenetics_group_sch%C3%BCnemann.html",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5523301,
+          47.375671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "❎",
+        "ID of Lab": "UCONN",
+        "Name of Lab": "UCONN Genomic Anthropology Lab",
+        "Name of PI": "Dr. Deborah Bolnick",
+        "Name of Institution": "University of Connecticut",
+        "Country of Institution": "United States",
+        "Webpage": "https://anthropology.uconn.edu/person/deborah-bolnick/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.25182451,
+          41.8110678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "❎",
+        "ID of Lab": "UWK",
+        "Name of Lab": "Achtman Lab",
+        "Name of PI": "Prof. Mark Achtman",
+        "Name of Institution": "Warwick Medical School, University of Warwick",
+        "Country of Institution": "United Kingdom",
+        "Webpage": "https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/",
+        "Ancient Metagenomics Research Focus": "microbial-genomics,host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54927271,
+          52.3761174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "🚚",
+        "ID of Lab": "UIT",
+        "Name of Lab": "Heintzman Lab",
+        "Name of PI": "Dr. Peter Heintzman",
+        "Name of Institution": "UiT - Norges arktiske universitet",
+        "Country of Institution": "Norway",
+        "Webpage": "https://sites.google.com/view/peteheintzman/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.972565,
+          69.6811516
+        ]
+      }
+    }
+  ]
+}

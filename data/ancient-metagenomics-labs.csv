@@ -1,7 +1,8 @@
 Active,ID of Lab,Name of Lab,Name of PI,Name of Institution,Country of Institution,Webpage,Ancient Metagenomics Research Focus,Latitude,Longitude
 ☑,AGES,"Archaeology, Genomics, Evolution and Societies",Prof. Ludovic Orlando,"Faculté de Médecine Purpan, Université Toulouse III",France,https://cagt.cnrs.fr/ages/,"microbial-genomics,host-associated",43.5957794,1.4512546
 ☑,ASU,Stone Lab,Prof. Anne Stone,Arizona State University,USA,https://stone.lab.asu.edu/,microbial-genomics,33.4545654,-112.070634
-☑,BIOARCH,BioArCh,Dr. Nathan Wales,University of York, United Kingdom,https://www.york.ac.uk/archaeology/centres-facilities/bioarch/facilities/palaeogenomics/,host-associated,53.946347,-1.057853
+☑,AWI,Polar Terrestrial Environmental Systems (Paleogenomics Lab),Dr. Kathleen Stoof-Leichsenring,Alfred-Wegener-Institut,Germany,https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/labs-and-methods/paleogenetic-lab.html,envi,52.381111,13.0658
+☑,BIOARCH,BioArCh,Dr. Nathan Wales,University of York,United Kingdom,https://www.york.ac.uk/archaeology/centres-facilities/bioarch/facilities/palaeogenomics/,host-associated,53.946347,-1.057853
 ☑,BUY,Reynolds Lab,Dr. Austin Reynolds,Baylor University,United States,https://www.reynoldslab.org/,environmental,31.5502412,-97.11170831
 ☑,CIBIO,"Computational Metagenomics Lab, CIBIO",Prof. Nicola Segata,Università Di Trento,Italy,http://segatalab.cibio.unitn.it/contacts.html,"host-associated,microbial-genomics",46.0695318,11.1515911
 ☑,CPG,Centre for Palaeogenetics,Prof. Anders Götherström,Stockholm University,Sweden,http://palaeogenetics.com/,"microbial-genomics,host-associated",59.36195,18.057638

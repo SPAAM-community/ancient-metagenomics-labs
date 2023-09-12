@@ -1,80 +1,115 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>List of Ancient Metagenomics Labs</title>
-  <link rel="icon" href="_media/SPAAM-Avatar-White.svg">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Website for a list of Ancient Metagenomics labs around the world curated by the SPAAM community">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="theme-custom.css">
+  <head>
+    <meta charset="UTF-8" />
+    <title>List of Ancient Metagenomics Labs</title>
+    <link rel="icon" href="_media/SPAAM-Avatar-White.svg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta
+      name="description"
+      content="Website for a list of Ancient Metagenomics labs around the world curated by the SPAAM community"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link rel="stylesheet" href="theme-custom.css" />
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
-        crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-  <style>
-  </style>
-</head>
-<body>
-  <div id="app"></div>                                              
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
-  <script src="js/jquery.csv.min.js"></script>
-  <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-  <script src="js/csv_to_html_table.js"></script>
-  <script>
-    window.$docsify = {
-      name: '<img src=""_media/SPAAM-Logo-Black.svg width=30%/>',
-      repo: 'https://github.com/SPAAM-community/ancient-metagenomics-labs',
-      homepage: 'README.md',
-      executeScript: true,
-      loadSidebar: false,
-      coverpage: false,
-      onlyCover: false,
-      search: 'auto',
-      themeColor: '#732a82',
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+      integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css"
+    />
+    <style></style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv_to_html_table.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+    <script>
+      window.$docsify = {
+        name: '<img src=""_media/SPAAM-Logo-Black.svg width=30%/>',
+        repo: "https://github.com/SPAAM-community/ancient-metagenomics-labs",
+        homepage: "README.md",
+        executeScript: true,
+        loadSidebar: false,
+        coverpage: false,
+        onlyCover: false,
+        search: "auto",
+        themeColor: "#732a82",
 
-      search: {
-        maxAge: 10000, // Expiration time, the default one day
-        paths: 'auto', // or 'auto'
-        placeholder: 'Type to search',
-        noData: 'No Results!',
-        // Headline depth, 1 - 6
-        depth: 3,
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-      },
+        search: {
+          maxAge: 10000, // Expiration time, the default one day
+          paths: "auto", // or 'auto'
+          placeholder: "Type to search",
+          noData: "No Results!",
+          // Headline depth, 1 - 6
+          depth: 3,
+          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        },
 
-      footer: {
-        copy: ' ',
-        auth: '',
-        pre: '<hr/>',
-        style: 'text-align: centre; vertical-align: text-top',
-        style: 'className'
+        footer: {
+          copy: " ",
+          auth: "",
+          pre: "<hr/>",
+          style: "text-align: centre; vertical-align: text-top",
+          style: "className",
+        },
+      };
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+
+    <script>
+      function setModifiedDate() {
+        if (document.getElementById('last-modified')) {
+          fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
+            .then((response) => {
+              return response.json();
+            })
+            .then((commits) => {
+              var modified = commits[0]['commit']['committer']['date'].slice(0,10);
+              if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
+                document.getElementById('last-modified').textContent = "Last Modified: " + modified;
+              }
+            });
+        }
       }
 
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
-  <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
-  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+            function format_link(link) {
+              if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+              else return "";
+            }
 
-  <script>
-    function format_link(link) {
-      if (link)
-        return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-      else return "";
-    }
+            CsvToHtmlTable.init({
+              csv_path: "data/ancient-metagenomics_labs.csv",
+              element: "table-container",
+              allow_download: true,
+              csv_options: { separator: ",", delimiter: '"' },
+              datatables_options: { paging: true },
+            });
 
-    CsvToHtmlTable.init({
-      csv_path: 'data/ancient-metagenomics_labs.csv', 
-      element: 'table-container', 
-      allow_download: true,
-      csv_options: {separator: ',', delimiter: '"'},
-      datatables_options: {"paging": true},
-    });
-  </script>
-
-</body>
+            window.$docsify = {
+              timeUpdater: {
+                text: ">last update time: {docsify-updated}",
+                formatUpdated: "{YYYY}/{MM}/{DD}",
+                whereToPlace: "bottom", // "top" or "bottom", default to "bottom"
+              },
+            };
+    </script>
+  </body>
+</html>
