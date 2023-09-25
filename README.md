@@ -34,7 +34,7 @@ We hope this will help with identifying: potential collaborators, thesis committ
 
 <!-- TODO update! -->
 
-Last updated: 2023-09-12
+Last updated: 2023-09-25
 
 **Legend**
 
@@ -51,11 +51,12 @@ Last updated: 2023-09-12
 The GEOjson file used for map rendering by GitHub is generated using the [csv2geojson](https://github.com/mapbox/csv2geojson) tool using the following command
 
 ```console
-awk -vFPAT='[^,]*|"[^"]*"' '{print $4","$9","$10}' data/ancient-metagenomics-labs.csv | (sed -u 1q; sort) | uniq > data/ancient-metagenomics-labs_mapdata.csv
-csv2geojson data/ancient-metagenomics-labs_mapdata.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs_mapdata.geojson
+csv2geojson data/ancient-metagenomics-labs.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs_mapdata.geojson
 ```
 
 When updating the table, make sure to add 'last updated' sentence above the table.
+
+Note: the GEOJson rendering is not working for reasons unknown.
 
 <script>
     function format_link(link) {
