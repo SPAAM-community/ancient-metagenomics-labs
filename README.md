@@ -16,7 +16,6 @@ We hope this will help with identifying: potential collaborators, thesis committ
 
 - [Ancient Metagenomic Labs](#ancient-metagenomic-labs)
   - [Description](#description)
-  - [Map of Institutions with Ancient Metagenomics Labs](#map-of-institutions-with-ancient-metagenomics-labs)
   - [Table of Ancient Metagenomics Labs](#table-of-ancient-metagenomics-labs)
   - [Technical Information](#technical-information)
 
@@ -39,7 +38,7 @@ We hope this will help with identifying: potential collaborators, thesis committ
 
 <!-- TODO update! -->
 
-Last updated: 2023-09-25
+Last updated: 2023-10-09
 
 **Legend**
 
@@ -52,6 +51,14 @@ Last updated: 2023-09-25
 <p class="text-right">Rendered by <a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by <a href="http://derekeder.com">Derek Eder</a> under a <a href="https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE">MIT license</a></p>
 
 ## Technical Information
+
+Updating the table instructions are as follows:
+
+1. Update data/ancient-metagenomics-labs.csv
+   - Make sure it's in alphabetical order based on ID of the lab
+   - The ID of the lab _can_ be shared if different groups using the same laboratory facilities (e.g. multiple groups in a department)
+2. Run the GEOJson command below
+3. Update the `Last updated` section in the README above
 
 The GEOjson file used for map rendering by GitHub is generated using the [csv2geojson](https://github.com/mapbox/csv2geojson) tool using the following command
 

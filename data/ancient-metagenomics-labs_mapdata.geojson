@@ -5,6 +5,46 @@
       "type": "Feature",
       "properties": {
         "Active": "☑",
+        "ID of Lab": "ACAD",
+        "Name of Lab": "Australian Centre for Ancient DNA",
+        "Name of PI": "Dr. Vilma Perez-Godoy",
+        "Name of Institution": "University of Adelaide",
+        "Country of Institution": "Australia",
+        "Webpage": "https://www.adelaide.edu.au/acad/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.603586,
+          -34.919318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "ACAD",
+        "Name of Lab": "Australian Centre for Ancient DNA",
+        "Name of PI": "Dr. Jamie Wood",
+        "Name of Institution": "University of Adelaide",
+        "Country of Institution": "Australia",
+        "Webpage": "https://www.adelaide.edu.au/acad/",
+        "Ancient Metagenomics Research Focus": "environmental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.603586,
+          -34.919318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
         "ID of Lab": "AGES",
         "Name of Lab": "Archaeology, Genomics, Evolution and Societies",
         "Name of PI": "Prof. Ludovic Orlando",
@@ -678,6 +718,26 @@
         "coordinates": [
           10.3877934,
           63.4304107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Active": "☑",
+        "ID of Lab": "PACEA",
+        "Name of Lab": "Palaeogenetics Platform (UMR 5199 PACEA)",
+        "Name of PI": "Dr. Mélanie Pruvost",
+        "Name of Institution": "Unviersity of Bordeux / CNRS",
+        "Country of Institution": "France",
+        "Webpage": "https://www.pacea.u-bordeaux.fr/",
+        "Ancient Metagenomics Research Focus": "host-associated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.608861,
+          44.802056
         ]
       }
     },
