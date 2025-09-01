@@ -26,8 +26,9 @@ The lab must:
 ### Task overview
 
 1. Email all existing listed PIs to get them to check their info
-2. Send to the [SPAAM](https://www.listserv.dfn.de/sympa/modindex/spaam-community), [ISBA](https://www.jiscmail.ac.uk/ISBARCH), [Ancient DNA (JiscMail)](https://www.jiscmail.ac.uk/ANCIENT-DNA) mailing lists, and any other relevant mailing lists requesting everyone to briefly check the list for accuracy
-3. Advertise on Mastodon, Bluesky, Instagram about the project and requesting people to check and do the same
+2. Send to SPAAM and ISBA element channels (e.g. on General)
+3. Send to the [SPAAM](https://www.listserv.dfn.de/sympa/modindex/spaam-community), [ISBA](https://www.jiscmail.ac.uk/ISBARCH), [Ancient DNA (JiscMail)](https://www.jiscmail.ac.uk/ANCIENT-DNA) mailing lists, and any other relevant mailing lists requesting everyone to briefly check the list for accuracy
+4. Advertise on Mastodon, Bluesky, Instagram about the project and requesting people to check and do the same
 
 !> How you gather this information is up to you, whether via email, GitHub, a Google form etc.!
 
