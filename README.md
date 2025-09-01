@@ -6,69 +6,39 @@
 
 </div>
 
-## Description
+This is a [SPAAM community](https://spaam-community.org/) curated registry of ancient metagenomics labs.
 
-This is a [SPAAM community](https://spaam-community.github.io/) curated list of ancient metagenomics labs.
+The purpose of this registry is to **promote collaboration** between labs by making labs working in ancient metagenomics more visible, but also help researchers and the public to find potential:
 
-The purpose of this list to promote further collaboration between labs by making labs working in ancient metagenomics more visible.
+- Collaborators
+- Thesis committee members
+- Publication reviewers
+- Future academic employers
+- Experts for interviews
 
-We hope this will help with identifying: potential collaborators, thesis committee and publication reviewers, and also potential future academic employers.
+You can see a [map](#the-map-of-ancient-metagenomic-labs) of the labs, or skip to the [registry](#the-registry-of-ancient-metagenomic-labs) itself.
 
-- [Ancient Metagenomic Labs](#ancient-metagenomic-labs)
-  - [Description](#description)
-  - [Table of Ancient Metagenomics Labs](#table-of-ancient-metagenomics-labs)
-  - [Technical Information](#technical-information)
+!> Want to contribute to the list, whether than is adding, modifying, or removing a lab? See the [submission](submission_docs.md) page!
 
-> :thumbsup: **To submit a new lab**, please submit using the form [here](https://github.com/SPAAM-community/ancient-metagenomics-labs/issues) or contact James Fellows Yates (jfy133 \[at\] gmail\.com).
+## The map of ancient metagenomic labs
 
-> :thumbsdown: **If you wish your lab to be removed** from this list, please contact James Fellows Yates (jfy133 \[at\] gmail\.com). Labs are only included if they already have a web presence.
+[Ancient Metagenomic Labs](https://viewscreen.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/refs/heads/main/data/ancient-metagenomics-labs_mapdata.geojson ":include :type=iframe width=100% height=400px")
 
-<!--
-
-## Map of Institutions with Ancient Metagenomics Labs
-
-[Ancient Metagenomics Labs](https://viewscreen.githubusercontent.com/view/geojson?url=https://github.com/SPAAM-community/ancient-metagenomics-labs/raw/main/data/ancient-metagenomics-labs_mapdata.geojson ":include :type=iframe width=100% height=400px")
-
-(Viewable on the [Ancient Metagenomics Labs](https://spaam-community.github.io/ancient-metagenomics-labs/#/) or [here](https://viewscreen.githubusercontent.com/view/geojson?url=https://github.com/SPAAM-community/ancient-metagenomics-labs/raw/main/data/ancient-metagenomics-labs_mapdata.geojson)
--->
+_Viewable on the [Ancient Metagenomic Labs website](https://www.spaam-community.org/ancient-metagenomics-labs/) or [here](https://viewscreen.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/refs/heads/main/data/ancient-metagenomics-labs_mapdata.geojson)_
 
 > 🛈 Multiple labs may exist within a single institution
 
-## Table of Ancient Metagenomics Labs
+## The registry of ancient metagenomic labs
 
 <!-- TODO update! -->
 
 Last updated: 2023-10-09
 
-**Legend**
-
-- ✅: Active
-- ❎: Inactive (in ancient metagenomics)
-- 🚚: Moved (see new institution on list)
+**Legend**: ✅ Active, ❎ Inactive (in ancient metagenomics), 🚚 Moved (see new institution on registry)
 
 <div id="table-container"></div>
 
 <p class="text-right">Rendered by <a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by <a href="http://derekeder.com">Derek Eder</a> under a <a href="https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE">MIT license</a></p>
-
-## Technical Information
-
-Updating the table instructions are as follows:
-
-1. Update data/ancient-metagenomics-labs.csv
-   - Make sure it's in alphabetical order based on ID of the lab
-   - The ID of the lab _can_ be shared if different groups using the same laboratory facilities (e.g. multiple groups in a department)
-2. Run the GEOJson command below
-3. Update the `Last updated` section in the README above
-
-The GEOjson file used for map rendering by GitHub is generated using the [csv2geojson](https://github.com/mapbox/csv2geojson) tool using the following command
-
-```console
-csv2geojson data/ancient-metagenomics-labs.csv --lat Latitude --lon Longitude > data/ancient-metagenomics-labs_mapdata.geojson
-```
-
-When updating the table, make sure to add 'last updated' sentence above the table.
-
-Note: the GEOJson rendering is not working for reasons unknown.
 
 <script>
     function format_link(link) {
