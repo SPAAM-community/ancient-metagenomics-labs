@@ -40,6 +40,7 @@ Active,ID of Lab,Name of Lab,Name of PI,Name of Institution,Country of Instituti
 ☑,RTV,Centre of Moleucular Anthropology for Ancient DNA studies,Dr. Claudio Ottoni,University of Rome Tor Vergata,Italy,https://web.uniroma2.it/en,host-associated,41.854989,12.6300251
 ☑,TAU,Historical and Prehistorical Genetics Laboratory,Dr. Viviane Slon,Universitat Tel Aviv,Israel,https://www.tau.ac.il/~viviane/,environmental,32.114663,34.8057366
 ☑,TIDE,"Transmission, Infection, Diversification & Evolution Group",Dr Denise Kühnert,Max Planck Institute for the Science of Human History,Germany,https://www.shh.mpg.de/tide,microbial-genomics,50.917755,11.578511
+☑,UNIBAS,Archaeological Sciences,Prof. Verena Schuenemann,University of Basel,Switzerland,https://ipna.duw.unibas.ch/de/naturwissenschaftliche-archaeologie/,47.566667,7.6000000
 ☑,UCL,Microbial Genomics,Dr. Lucy van Dorp,University College London Genetics Institute,United Kingdom,https://www.ucl.ac.uk/~ucbpvan/,microbial-genomics,51.5259081,-0.132691119708498
 ☑,UCO,GenSCAPE Lab,Dr. Maanasa Raghavan,University of Chicago,United States,https://www.genscape-lab.com/,microbial-genomics,41.7899568,-87.59736431
 ☑,UCSC,UCSC Human Paleogenomics Lab,Dr. Lars Fehren-Schmitz,"University of California, Santa Cruz",United States,https://ucschpg.wordpress.com/,microbial-genomics,36.9893992,-122.05686
@@ -50,8 +51,7 @@ Active,ID of Lab,Name of Lab,Name of PI,Name of Institution,Country of Instituti
 ☑,UPF,Paleogenomics Lab,Prof. Carles Lalueza-Fox,"L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra",Spain,https://www.ibe.upf-csic.es/lalueza,microbial-genomics,41.3803282,2.1811476
 ☑,UPR,Toranzo Lab,Prof. Gary Toranzo,"Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",Puerto Rico,http://brtc.uprrp.edu/marc/index.php/menu/gary-toranzos-ph-d/,host-associated,18.404158,-66.04869171
 ☑,URS,Ecobio Lab Team Palaeogenomics,Dr. Morgane Ollivier,Unviersity of Rennes 1 / CNRS,France,https://ecobio.univ-rennes1.fr/evolution-des-genomes-traits-dhistoire-de-vie-et-adaptation,"host-associated,microbial-genomics,environmental",48.118107,-1.638029
-☑,UTIG,aDNA lab UTIG,Dr. Christiana L. Scheib,"Tartu Ülikool, Genoomika Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,58.3824332,26.7212148
-☑,UZH,Paleogenetics Group,Assoc. Prof. Verena Schuenemann,Universität Zürich,Switzerland,https://www.iem.uzh.ch/en/research/paleogenetics_group_sch%C3%BCnemann.html,microbial-genomics,47.375671,8.5523301
+☑,UTIG,aDNA lab UTIG,Kristiina Tambets,"Tartu Ülikool, Genoomika Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,58.3824332,26.7212148
 ❎,UCONN,UCONN Genomic Anthropology Lab,Dr. Deborah Bolnick,University of Connecticut,United States,https://anthropology.uconn.edu/person/deborah-bolnick/,microbial-genomics,41.8110678,-72.25182451
 ❎,UWK,Achtman Lab,Prof. Mark Achtman,"Warwick Medical School, University of Warwick",United Kingdom,https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/,"microbial-genomics,host-associated",52.3761174,-1.54927271
 🚚,UIT,Heintzman Lab,Dr. Peter Heintzman,UiT - Norges arktiske universitet,Norway,https://sites.google.com/view/peteheintzman/,environmental,69.6811516,18.972565
