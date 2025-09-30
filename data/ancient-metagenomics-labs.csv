@@ -51,7 +51,7 @@ Active,ID of Lab,Name of Lab,Name of PI,Name of Institution,Country of Instituti
 ☑,UPF,Paleogenomics Lab,Prof. Carles Lalueza-Fox,"L'Institut de Biologia Evolutiva, Universitat Pompeu Fabra",Spain,https://www.ibe.upf-csic.es/lalueza,microbial-genomics,41.3803282,2.1811476
 ☑,UPR,Toranzo Lab,Prof. Gary Toranzo,"Universidad de Puerto Rico - Recinto de Río Piedras, Avenida Universidad, San Juan, Puerto Rico",Puerto Rico,http://brtc.uprrp.edu/marc/index.php/menu/gary-toranzos-ph-d/,host-associated,18.404158,-66.04869171
 ☑,URS,Ecobio Lab Team Palaeogenomics,Dr. Morgane Ollivier,Unviersity of Rennes 1 / CNRS,France,https://ecobio.univ-rennes1.fr/evolution-des-genomes-traits-dhistoire-de-vie-et-adaptation,"host-associated,microbial-genomics,environmental",48.118107,-1.638029
-☑,UTIG,aDNA lab UTIG,Kristiina Tambets,"Tartu Ülikool, Genoomika Instituut",Estonia,https://genomics.ut.ee/en/research/estonian-biocentre,host-associated,58.3824332,26.7212148
+☑,UTIG,aDNA lab UTIG,Kristiina Tambets,"Tartu Ülikool, Genoomika Instituut",Estonia,https://genomics.ut.ee/en/content/estonian-biocentre,host-associated,58.3824332,26.7212148
 ❎,UCONN,UCONN Genomic Anthropology Lab,Dr. Deborah Bolnick,University of Connecticut,United States,https://anthropology.uconn.edu/person/deborah-bolnick/,microbial-genomics,41.8110678,-72.25182451
 ❎,UWK,Achtman Lab,Prof. Mark Achtman,"Warwick Medical School, University of Warwick",United Kingdom,https://www2.warwick.ac.uk/fac/med/research/tsm/microinfect/staff/achtmanlab/,"microbial-genomics,host-associated",52.3761174,-1.54927271
 🚚,UIT,Heintzman Lab,Dr. Peter Heintzman,UiT - Norges arktiske universitet,Norway,https://sites.google.com/view/peteheintzman/,environmental,69.6811516,18.972565
